@@ -1,5 +1,5 @@
 # Web Development Public
-### Official curriculum for the Chaptr Web Development Bootcamp with Python and JavaScript
+### Official curriculum for the Zindua Web Development Bootcamp with Python and JavaScript
 In this bootcamp, you will learn the essential skills for Web Development to be able to unlock careers as a Backend Developer, Frontend Developer or Full-Stack Web Developer. To learn more about the bootcamp, [visit our Web Development website page](https://chaptrglobal.com/blog/bootcamp/django-web-development-bootcamp/).
 
 To apply for the Chaptr Data Science bootcamp, [go to our website APPLY page](https://chaptrglobal.com/apply).
