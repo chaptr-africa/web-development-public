@@ -1,10 +1,15 @@
 ## Week 1: Foundations of JavaScript
 
 **Day 1:** Introduction to JavaScript, data types, variables, and operators.
+
 **Day 2:** Control structures and loops.
+
 **Day 3:** Functions and scopes.
+
 **Day 4:** Arrays and objects
+
 **Weekend:** Project, Debugging and error handling.
+
 
 ## Week 2: Manipulating the Document Object Model (DOM)
 
