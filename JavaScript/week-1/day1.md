@@ -22,3 +22,11 @@ Git Reference Manual: http://git-scm.com/docs
 Git Overview Book: http://git-scm.com/book/en/v2
 Sample ignore files: https://github.com/github/gitignore
 Hyper.is Terminal: https://hyper.is/
+
+# Introduction to JavaScript
+[watch video](https://www.youtube.com/watch?v=sEGC-adSKXo) Development Environment Setting
+[watch video](https://www.youtube.com/watch?v=KXxXr0RxGDE&t=2s) Basic JavaScript Syntax
+[watch video](https://www.youtube.com/watch?v=plOo5hNVQJU) JavaScript Variables
+[watch video](https://www.youtube.com/watch?v=yjE_xXL26qA&t=76s) JavaScript DataTypes
+[watch video](https://www.youtube.com/watch?v=jfQyMPzPTjY) JavaScript Type Conversion
+[watch video](https://www.youtube.com/watch?v=nMQlXMHMz_Y) JavaScript Expressions and Operators
