@@ -24,9 +24,15 @@ Sample ignore files: https://github.com/github/gitignore
 Hyper.is Terminal: https://hyper.is/
 
 # Introduction to JavaScript
-[watch video](https://www.youtube.com/watch?v=sEGC-adSKXo) Development Environment Setting
-[watch video](https://www.youtube.com/watch?v=KXxXr0RxGDE&t=2s) Basic JavaScript Syntax
-[watch video](https://www.youtube.com/watch?v=plOo5hNVQJU) JavaScript Variables
-[watch video](https://www.youtube.com/watch?v=yjE_xXL26qA&t=76s) JavaScript DataTypes
-[watch video](https://www.youtube.com/watch?v=jfQyMPzPTjY) JavaScript Type Conversion
-[watch video](https://www.youtube.com/watch?v=nMQlXMHMz_Y) JavaScript Expressions and Operators
+## Development Environment Setting
+[watch video](https://www.youtube.com/watch?v=sEGC-adSKXo) 
+## Basic JavaScript Syntax
+[watch video](https://www.youtube.com/watch?v=KXxXr0RxGDE&t=2s) 
+## JavaScript Variables
+[watch video](https://www.youtube.com/watch?v=plOo5hNVQJU) 
+## JavaScript DataTypes
+[watch video](https://www.youtube.com/watch?v=yjE_xXL26qA&t=76s) 
+## JavaScript Type Conversion
+[watch video](https://www.youtube.com/watch?v=jfQyMPzPTjY) 
+## JavaScript Expressions and Operators
+[watch video](https://www.youtube.com/watch?v=nMQlXMHMz_Y) 
