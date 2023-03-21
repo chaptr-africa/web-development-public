@@ -14,13 +14,18 @@ Watch Video, Kevin Stratvert
 In this step-by-step tutorial, learn how to use Git and GitHub for source control management (SCM). We start with Git. What is it? How you can get it running on your system, and how you can start working with it? Then we look at GitHub.com, a platform for hosting and collaborating on Git repositories. By the end of this video, you'll be well on your way to using Git and GitHub. If you'd like to follow along, I've included sample files down below.
 
 ### Resources
-Sample files to follow along: https://1drv.ms/u/s!AmxrofZZlZ-whOIll...
 Official Git web site: https://www.git-scm.com/
+
 Official GitHub.com web site: https://github.com/
-Git and GitHub.com cheat sheet: https://education.github.com/git-chea...
+
+Git and GitHub.com cheat sheet: https://education.github.com/git-cheat-sheet
+
 Git Reference Manual: http://git-scm.com/docs
+
 Git Overview Book: http://git-scm.com/book/en/v2
+
 Sample ignore files: https://github.com/github/gitignore
+
 Hyper.is Terminal: https://hyper.is/
 
 # Introduction to JavaScript
