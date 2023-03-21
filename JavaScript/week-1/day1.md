@@ -8,12 +8,12 @@ If you already have an editor or development environment installed please keep u
 ### Recommended Programmer Editor
 The VSCode programmer text editor [RECOMMENDED]
 
-### Getting started with Git
-Watch Video, Kevin Stratvert
+## Getting started with Git
+Watch Video[https://www.youtube.com/watch?v=tRZGeaHPoaw], Kevin Stratvert
 
 In this step-by-step tutorial, learn how to use Git and GitHub for source control management (SCM). We start with Git. What is it? How you can get it running on your system, and how you can start working with it? Then we look at GitHub.com, a platform for hosting and collaborating on Git repositories. By the end of this video, you'll be well on your way to using Git and GitHub. If you'd like to follow along, I've included sample files down below.
 
-### Resources
+## Resources
 Sample files to follow along: https://1drv.ms/u/s!AmxrofZZlZ-whOIll...
 Official Git web site: https://www.git-scm.com/
 Official GitHub.com web site: https://github.com/
