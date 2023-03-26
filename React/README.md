@@ -16,7 +16,7 @@
         - Assignment: Consume and display data from a JSON object
     - Lesson 4: Event handling, Conditional Rendering, Netlify Basics
         - Assignment: Build a counter app that changes the color of an element when a certain number is reached
-    - Project:  Random Image generator. (Data to be provided by TM in JSON format)
+    - Project:  Random Image generator | Calculator | Todo App
 - Week 2:
     - Lesson 1:Styling(Tailwind CSS), code splitting - Routing in React using react-router-dom
         - Assignment: Add a routing feature to your React application styled with Tailwind CSS
