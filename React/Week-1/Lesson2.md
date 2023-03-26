@@ -4,7 +4,7 @@ In this lesson you'll be introduced to a styling pre-processor(Saas) and a utili
 
 ## 1. Using a pre-processer for styling (Saas)
 You'll only be familiarized with the basics of Saas in this lesson assuming you are from a background of CSS. You'll be introduced to the concept of variables and nesting.
-- Read about Saas <a here="https://sass-lang.com/guide">here</a>
+- Read about Saas <a href="https://sass-lang.com/guide">here</a>
 - <a href="https://create-react-app.dev/docs/adding-a-sass-stylesheet">Adding Saas</a>
 
 ## 2. Using Tailwind CSS 
