@@ -1,3 +1,7 @@
+<h1 align="center">React Course Outline</h1>
+
+In this course, you will learn how to build dynamic and interactive web applications using React, one of the most popular front-end JavaScript libraries in the industry. React is widely used by developers to build modern, efficient, and scalable web applications. By the end of the course, you will have built several real-world projects using React, giving you the practical experience and skills necessary to confidently develop your own web applications with this powerful library. 
+
 ### Prerequisites
 
 1. HTML
