@@ -34,6 +34,8 @@
 
 **Day 4:** Error handling and debugging asynchronous code.
 
+**Weekend:** Project
+
 
 ## Week 4: Advanced JavaScript Concepts
 
@@ -45,6 +47,6 @@
 
 **Day 4:** Functional programming concepts: map, reduce, filter.
 
-**Weekend:** Testing with Jest and building a simple project.
+**Weekend:** Testing with Jest and building a project.
 
 This outline should provide students with a strong foundation in Vanilla JavaScript, including core concepts, DOM manipulation, asynchronous programming, and advanced topics like OOP and functional programming.
