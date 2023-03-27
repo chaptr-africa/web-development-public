@@ -1,5 +1,7 @@
 ## Introduction
 
+<!-- <a href="https://youtu.be/SIyxjRJ8VNY">Watch Introduction Tutorial</a> -->
+
 By the end of the Django module, you will be able to: 
 
 <ol> 
@@ -27,6 +29,8 @@ By the end of the Django module, you will be able to:
 
 ## Model-View-Template (MVT) Design 
 
+<!-- <a href="https://youtu.be/GGkFg52Ot5o">Watch MVTj Tutorial</a> -->
+
 Django follows the Model-View-Controller (MVC) architectural pattern, but with some slight variations since In Django, the MVC pattern is implemented as Model-View-Template (MVT) as you can see below:
 
 <ul>
@@ -37,6 +41,8 @@ Django follows the Model-View-Controller (MVC) architectural pattern, but with s
 <li><b>Template</b> The Template layer in Django is responsible for rendering the HTML pages that are sent to the client. Templates can contain placeholders for dynamic content that are filled in by the View layer. Templates are typically written in HTML with embedded Python code using Django's template language.
 </li>
 </ul>
+
+
 
 ## Setting up the Development Environment
 
@@ -68,6 +74,7 @@ $ source virtual/bin/activate
 
 ### Windows:
 
+<!-- <a href="https://youtu.be/VuETrwKYLTM">Watch Tutorial</a> -->
 <ol> 
 <li><b>Install Python:</b> The first step is to download and install Python from the official <a href="https://www.python.org/downloads/">Website</a>.
 </li>
@@ -83,6 +90,8 @@ $ source virtual/bin/activate
 <li><b>Install Django:</b> With the virtual environment activated, you can now install Django by typing <b>pip install Django</b>
 </li>
 </ol>
+
+
 
 ### Create the First Django App
 

@@ -4,9 +4,9 @@
 
 **Day 1:** Setting up the Development Environment and  Create First Django Application
 
-**Day 2:** Create View Functions and URLs/Pages
+**Day 2:** Create Templates
 
-**Day 3:** Create Templates
+**Day 3:** Template Inheritance
 
 **Day 4:** Connecting Bootstrap and CSS
 
