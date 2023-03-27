@@ -1,1 +1,2 @@
-# Practice exercises and mini-projects using the DOM.
+
+# Project - create a Rock Paper Scissors game
