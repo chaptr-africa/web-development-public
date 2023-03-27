@@ -4,3 +4,6 @@
 
 [Read](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) Document Object Model
 
+## How The JavaScript DOM Works
+
+[Read](https://www.freecodecamp.org/news/the-javascript-dom-a-practical-tutorial/)
