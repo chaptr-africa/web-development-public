@@ -5,9 +5,9 @@ To connect Django project to a MySQL database, you can follow these steps:
 1. Install the MySQL client library for Python. You can do this using pip, the Python package manager, with the following command:
 
 <pre>
-       pip install mysqlclient
+     $  pip install mysqlclient
             Or
-       pip install --only-binary :all: mysqlclient
+     $  pip install --only-binary :all: mysqlclient
 </pre>
 
 2. Install the MySQL server and create a database. You can do this using the appropriate package manager for your operating system. For example, on Windows:
@@ -51,7 +51,7 @@ DATABASES = {
 4. Run the Django migrations to create the necessary database tables:
 
 <pre>
-      python manage.py migrate
+    $  python manage.py migrate
 </pre>
 
 This will create the tables defined by Django's built-in apps (such as auth and admin) in your MySQL database.
