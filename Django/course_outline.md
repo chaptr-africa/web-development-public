@@ -17,9 +17,9 @@
 
 **Day 1:** Connecting Django App with MySQL Database
 
-**Day 2:** Creating Models Django Admin
+**Day 2:** Creating Models & Django Admin
 
-**Day 3:** Adding models to the Admin site
+**Day 3:** Creating Views and URLs for Blog site
 
 **Day 4:** Displaying model Data
 
