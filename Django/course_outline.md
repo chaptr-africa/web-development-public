@@ -21,16 +21,16 @@
 
 **Day 3:** Creating Views and URLs for Blog site
 
-**Day 4:** Displaying model Data
+**Day 4:** Django Subscription & News Letters
 
 **Weekend:** Week 2 Project
 
 
 ## Week 3:  Django Authentication and News Letters
 
-**Day 1:** Forms and Uploading Images
+**Day 1:** Django 404(Page not Found ) & Error Messages
 
-**Day 2:** Creating News Letters
+**Day 2:** Forms and Uploading Images
 
 **Day 3:** Registration, Login and Logout
 
