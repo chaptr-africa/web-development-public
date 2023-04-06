@@ -76,7 +76,7 @@ def subscribe(request):
 
    - In this code, we have defined a form with an email input field and a submit button. We have also included a check for messages and displayed them if they exist.
 
-   4. Add a URL pattern for the subscribe view:
+      4. Add a URL pattern for the subscribe view:
 
 <pre>
 # blog/urls.py
