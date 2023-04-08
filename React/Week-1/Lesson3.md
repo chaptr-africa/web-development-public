@@ -1,4 +1,4 @@
-<h1 align="center">Lesson 3</h1>
+<h1 align="center">Lesson 3: React Forms</h1>
 
 In this lesson we will learn about React Forms, performing CRUD functionality with React forms and useState hook.
 CRUD stands for Create, Read, Update and Delete. These are the four basic operations that are performed on data.
