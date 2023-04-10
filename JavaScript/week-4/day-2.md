@@ -20,4 +20,5 @@ console.log(result); // { min: 1, max: 5, sum: 15 }
 ```
 In this example, the getMinMaxSum function is called with an array of numbers [1, 2, 3, 4, 5]. The function should return an object with min set to 1, max set to 5, and sum set to 15.
 
-*** Note: *** The order of the properties in the returned object does not matter.
+#### Note:
+ The order of the properties in the returned object does not matter.

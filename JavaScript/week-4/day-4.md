@@ -5,7 +5,8 @@
 [watch video](https://www.youtube.com/watch?v=BxHfqVQ60uU)
 
 ## Challenge:
-*** Array Manipulation with Functional Programming ***
+
+### Array Manipulation with Functional Programming
 
 Write a function manipulateArray(arr) that takes an array of integers arr as an input and performs the following operations on it using functional programming concepts:
 

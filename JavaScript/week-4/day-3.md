@@ -13,7 +13,7 @@
 
 You are tasked with creating a class hierarchy for a simple game. The game will have different types of characters, each with their own abilities and attributes. Your task is to create the classes for the game characters using Object-oriented programming principles in JavaScript.
 
-*** Requirements ***
+### Requirements
 There should be a Character class that serves as the parent class for all game characters. It should have the following properties:
 
     - name: the name of the character
@@ -35,7 +35,7 @@ Each child class should have a method called attack that takes in a target chara
 
 Each child class should have a method called specialAbility that performs a special action based on the character's abilities.
 
-*** Example ***
+### Example
 Here's an example of how the classes should work together:
 
 ```
@@ -49,7 +49,7 @@ wizard.specialAbility(); // wizard uses special ability
 archer.attack(warrior); // warrior's health is reduced
 ```
 
-*** Constraints ***
+### Constraints
 - You can assume that all input values are valid.
 - You can assume that the attack method will always be called with a valid target character.
 - You can assume that the specialAbility method will always be called with valid inputs.
