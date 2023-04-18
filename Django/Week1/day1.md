@@ -181,3 +181,13 @@ urlpatterns = [
 </li>
 
 </ol>
+
+## Challenge Task
+
+In this challenge, you will create a new Django project and app, and display a custom message on the homepage saying "Welcome to my Django app!".
+
+## Challenge Submission
+Submit your code as a GitHub repository, and include a README file with instructions on how to set up and run the app. Don't forget to include the URL mappings, view functions, and template files.
+
+
+

@@ -120,3 +120,11 @@ STATICFILES_DIRS = [BASE_DIR / "static"]
 </pre>
 This tells Django to serve static files from the static directory in your application.
 With these steps, you should be able to connect CSS to your Django project and customize the styles of your pages.
+
+
+## Challenge Task
+
+In this challenge,  you will add Bootstrap and custom CSS styles to a Django app you developed on day 3 to create a responsive and visually appealing web page.
+
+## Challenge Submission
+Submit your code as a GitHub repository, and include a README file with instructions on how to set up and run the app. Don't forget to include the URL mappings, view functions, and template files.
