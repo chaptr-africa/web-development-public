@@ -14,11 +14,12 @@ In addition to these features, the website should be styled using Bootstrap and 
 
 To complete this project, you will need to use the following technologies and tools:
 
-Python 3.x
-Django 3.x
-HTML5
-CSS3
-Bootstrap 4.x
+1. Python 3.x
+2. Django 3.x
+3. HTML5
+4. CSS3
+5. Bootstrap 4.x
+
 You will need to create a new Django project and a new Django app to build the website. The website should include multiple HTML templates, one for each page of the website. You should use Django's template inheritance feature to create a base template that can be used as the layout for all other templates.
 
 -  The website should be styled using Bootstrap and custom CSS. You should include a custom stylesheet that defines the styles for the various elements on the page, including the navigation menu, the header, and the calorie counter.
