@@ -24,36 +24,36 @@ In this course, you will learn how to build dynamic and interactive web applicat
         - Assignment: Create, Update and Delete functionality in your application
     - Lesson 4: Routing in React using react-router-dom, deploying your application to Vercel
         - Assignment: Implement routing in your application
-    - Project: Todo App | Random image generator
+    - Project: Calculator App. | Random Meme Generator App. | Social Card App.
 - Week 2: React Hooks and APIs
     - Lesson 1: useEffect hook
-        - Assignment:
+        - Assignment: Consuming an API using useEffect hook
     - Lesson 2: Fetching libraries (axios), 
-        - Assignment: 
+        - Assignment: Consuming an API using axios
     - Lesson 3: Intro to Authentication and Authorization (JWT)
-        - Assignment:
+        - Assignment: 
     - Lesson 4: Custom Hooks
-        - Assignment:
-    - Project: Movie App. (Consuming the OMDBP|TMBP API)
+        - Assignment: Create a counter custom hook
+    - Project: Rick And Morty Profiles Card App.
 - Week 3: Advanced React - State management
     - Lesson 1: Context API, use-Context hook
         - Assignment:
     - Lesson 2: Redux, use-Reducer hook
         - Assignment:
-    - Lesson 3: APIs with redux
+    - Lesson 3: CRUD operations using Redux/ Context API
         - Assignment:
     - Lesson 4: Reconciliation Algo, Higher order components, render prop
         - Assignment:
-    - Project:
+    - Project: Todo App. | Notes App.
 - Week 4: Full-Stack React
-    - Lesson 1: SSR vs SSG, NextJS
+    - Lesson 1: Intro to NextJS, Routing and SSR
         - Assignment: Initialize a NextJS application that is Server Side Rendered and use it’s routing feature. (Information to be displayed will be from an API)
-    - Lesson 2: Introduction to Firebase, OAuth2.0 using firebase
-        - Assignment: Use firebase to implement user Authentication in your application
-    - Lesson 3: Firebase Hosting
-        - Assignment: Use Firebase as your backend and fetch the data stored from it.
+    - Lesson 2: NextJS features, ISR, SSG, API Routes
+        - Assignment: Use NextJS API routes to fetch data from an API and display it on the page.
+    - Lesson 3: Database connection with NextJS
+        - Assignment: Connect your NextJS application to a database and perform CRUD operations.
     - Lesson 4:  Testing, unit-test(jest) and snapshot tests.
         - Assignment: Use Jest to perform unit tests on your components
     - Project: Personal Portfolio having all projects from Week 1.
 - Week 5: Capstone Project
-    - Full-Blown E-commerce application using NextJS and Firebase.
+    - E-commerce App | Real-time Messaging app | Social Media App | Blogging App

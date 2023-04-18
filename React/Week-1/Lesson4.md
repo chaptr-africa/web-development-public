@@ -1,4 +1,4 @@
-<h1 align="center">Lesson 4</h1>
+<h1 align="center">Lesson 4: Routing & Deployment</h1>
 
 In this lesson you will learn about routing in React using react-router-dom and deploying you static application to Vercel.
 

@@ -1,4 +1,4 @@
-<h1 align="center">Lesson 2</h1>
+<h1 align="center">Lesson 2: Styling, Props and State</h1>
 
 In this lesson you'll be introduced to a styling pre-processor(Saas) and a utility-first CSS framework (Tailwind CSS). You'll also be introduced to the useState hook and how to use it to manage state in your React application and learn how to manipulate data from a JSON object using the higher order array methods such as map, filter, and reduce.
 
