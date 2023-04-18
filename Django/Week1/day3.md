@@ -42,3 +42,10 @@ Inherit from the base template in child templates by using the extends template 
 </li>
 
 </ol>
+
+## Challenge Task
+
+In this challenge, you will create a new Django app with multiple templates, and implement template inheritance to display a custom message using the base template.Also add a Navbar that is displayed on all the pages 
+
+## Challenge Submission
+Submit your code as a GitHub repository, and include a README file with instructions on how to set up and run the app. Don't forget to include the URL mappings, view functions, and template files.

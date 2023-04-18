@@ -60,3 +60,11 @@ urlpatterns = [
 
 </pre>
 - This creates a URL pattern that maps the URL http://127.0.0.1:8000/blog/ to the blog_list view. When a user visits this URL, Django will call the blog_list view, retrieve all the Blog objects from the database, and render them in the blog_list.html template.
+
+## Challenge Task
+
+In this challenge, you will modify an existing Django project by displaying the Editor data following the Editor model we added in the previous Challenge.
+
+
+## Challenge Submission
+Submit your code as a GitHub repository, and include a README file with instructions on how to set up and run the app. Don't forget to include the Model, URL mappings, view functions, and template files.

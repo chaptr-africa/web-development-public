@@ -76,7 +76,7 @@ def subscribe(request):
 
    - In this code, we have defined a form with an email input field and a submit button. We have also included a check for messages and displayed them if they exist.
 
-   4. Add a URL pattern for the subscribe view:
+      4. Add a URL pattern for the subscribe view:
 
 <pre>
 # blog/urls.py
@@ -90,5 +90,29 @@ urlpatterns = [
 ]
 
 </pre>
+
    - In this code, we have defined a URL pattern for the subscribe view.
    - You can now run yor server the navigate to `http://127.0.0.1:8000/subscribe/` and see the email subscription form. 
+
+## Challenge Task
+
+You have been tasked with implementing an email subscription feature in a web application. The goal is to allow users to subscribe to receive email updates about the web application's latest news, updates, and blog posts.
+
+Here are the steps to complete the challenge:
+
+- Create a new model to store email subscriptions. The model should include the following fields:
+
+1. Email address (string)
+2. Subscription date (date/time)
+3. Create a form on the web application's homepage that allows users to enter their email address and subscribe to the email list.
+
+- Implement server-side validation to ensure that the email address is valid and not already subscribed.
+
+- Add a confirmation message to the form to let users know that their subscription was successful.
+
+- Create a backend script to send the email updates to all subscribers. The script should run at regular intervals (e.g. daily, weekly) and should send the latest news, updates, and blog posts to all subscribers.
+
+- Add an "Unsubscribe" link in the emails that allows users to easily unsubscribe from the email list.
+
+## Challenge Submission
+Submit your code as a GitHub repository, and include a README file with instructions on how to set up and run the app. Don't forget to include the Model, URL mappings, view functions, and template files.

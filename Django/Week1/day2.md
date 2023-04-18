@@ -75,3 +75,11 @@ in your web browser to see your app in action. For example:
 (virtual) $ python manage.py runserver
 </pre>
  You should be able to see  <b>Hello, world! </b> On your browser
+
+
+## Challenge Task
+
+In this challenge,  you will create a new Django app and template, and display a custom message using the template. 
+
+## Challenge Submission
+Submit your code as a GitHub repository, and include a README file with instructions on how to set up and run the app. Don't forget to include the URL mappings, view functions, and template files.

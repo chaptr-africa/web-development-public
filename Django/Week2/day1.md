@@ -55,3 +55,11 @@ DATABASES = {
 </pre>
 
 This will create the tables defined by Django's built-in apps (such as auth and admin) in your MySQL database.
+
+
+## Challenge Task
+
+In this challenge, you will modify an existing Django project above to use a PostgreSQL database instead of the mySQL database.
+
+## Challenge Submission
+Submit your code as a GitHub repository, and include a README file with instructions on how to set up and run the app. Don't forget to include the URL mappings, view functions, and template files.

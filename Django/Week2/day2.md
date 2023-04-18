@@ -105,3 +105,19 @@ admin.site.register(Blog)
    Navigate back to the blog post list view to see your two new blog posts listed.
 
    You should now have two sample blog posts in your Django application that you can use to test your views and templates.
+
+## Challenge Task
+
+In this challenge, you will modify an existing Django project by adding an Editor model following the following instructions:
+
+- Create a new Editor model with the following attributes:
+
+1. First name (string)
+2. Last name (string)
+3. Email (string)
+- Add a foreign key to the Editor model that references the Blog model.
+
+- Update the Blog model to include a many-to-one relationship with the Editor model.
+
+## Challenge Submission
+Submit your code as a GitHub repository, and include a README file with instructions on how to set up and run the app. Don't forget to include the Model, URL mappings, view functions, and template files.
