@@ -42,7 +42,7 @@ In this course, you will learn how to build dynamic and interactive web applicat
         - Assignment:
     - Lesson 3: CRUD operations using Redux/ Context API
         - Assignment:
-    - Lesson 4: Reconciliation Algo, Higher order components, render prop
+    - Lesson 4: Reconciliation Algo, Higher order components, render prop, API Fetching Libraries(Axios)
         - Assignment:
     - Project: Todo App. | Notes App.
 - Week 4: Full-Stack React
@@ -51,7 +51,7 @@ In this course, you will learn how to build dynamic and interactive web applicat
     - Lesson 2: NextJS features, ISR, SSG, API Routes
         - Assignment: Use NextJS API routes to fetch data from an API and display it on the page.
     - Lesson 3: Database connection with NextJS
-        - Assignment: Connect your NextJS application to a database and perform CRUD operations.
+        - Assignment: Connect your NextJS application to a Baas and perform CRUD operations.
     - Lesson 4:  Testing, unit-test(jest) and snapshot tests.
         - Assignment: Use Jest to perform unit tests on your components
     - Project: Personal Portfolio having all projects from Week 1.
