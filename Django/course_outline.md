@@ -26,7 +26,7 @@
 **Weekend:** Week 2 Project
 
 
-## Week 3:  Django Authentication and News Letters
+## Week 3:  Django Authentication
 
 **Day 1:** Django 404(Page not Found ) & Error Messages
 
