@@ -5,3 +5,4 @@ A list of capstone projects for the <a href="https://github.com/zinduaschool/web
 ## 1. Real Time Messaging App
 
 - Create a real time messaging app where users can send messages to each other in real time. It should include features such as user authentication, chat rooms, and notifications.
+- 

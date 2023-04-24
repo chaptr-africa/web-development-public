@@ -1,0 +1,3 @@
+<h1 align="center">NodeJS Course Outline</h1>
+
+In this course, you will learn how to build dynamic and interactive web applications using NodeJS, one of the most popular back-end JavaScript libraries in the industry. NodeJS is widely used by developers to build modern, efficient, and scalable web applications. By the end of the course, you will have built several real-world projects using NodeJS, giving you the practical experience and skills necessary to confidently develop your own web applications with this powerful library.
