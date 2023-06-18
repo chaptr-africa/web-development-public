@@ -21,17 +21,17 @@ In this course, you will learn how to build dynamic and interactive web applicat
  - <a href="./week-1/Lesson-3.md">Non blocking I/O</a>
   
 > Creating a CLI
- - Process and Environment
- - What is a CLI
- - Creating a CLI
+ - <a href="./week-1/Lesson-2.md">Process and Environment</a>
+ - <a href="./week-1/Lesson-3.md">What is a CLI</a>
+ - <a href="./week-1/Lesson-3.md">Creating a CLI</a>
 
 > Modules
- - What is a Module
- - Require vs Import
- - Thinking in Modules
- - Internal Modules
- - NPM and 3rd party modules
- - Using Yargs
+ - <a href="./week-1/Lesson-3.md"> What is a Module</a>
+ - <a href="./week-1/Lesson-3.md">Require vs Import</a>
+ - <a href="./week-1/Lesson-4.md">Thinking in Modules</a>
+ - <a href="./week-1/Lesson-4.md">Internal Modules</a>
+ - <a href="./week-1/Lesson-4.md">NPM and 3rd party modules</a>
+ - <a href="./week-1/Lesson-4.md">Using Yargs</a>
   
 > File I/O
  - Async in Node
