@@ -1,5 +1,6 @@
 <h1 align="center">Intro to NodeJS: Lesson 1</h1>
 
+## PART 1
 <p>Welcome to this introductory course on Node.js! In this course, you will learn what Node.js is, its history, and how to install it. You will also learn how to create a Command Line Interface (CLI), what are npm and modules, the different types of modules available, how to interact with files, how to download modules using npm, how to write tests with Jest, and how to create an HTTP server, handle requests, and serve a simple website.</p>
 
 <h2>Pre-requisites</h2>
@@ -34,6 +35,7 @@ Node.js became popular quickly because it could handle a large number of concurr
 
 Node.js is now a mature and stable platform used by many companies to build high-performance network applications. It has a large and active community of developers who continue to develop new modules and frameworks to extend its capabilities. Node.js is often used in combination with other technologies, such as databases, front-end frameworks, and cloud platforms, to build full-stack web applications.
 
+## PART 2
 # Hello World
 
 Let’s get started with writing our very first Node.js program. But, what is a Node.js program? Simple, some JavaScript!
