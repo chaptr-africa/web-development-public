@@ -13,12 +13,12 @@ In this course, you will learn how to build dynamic and interactive web applicat
 ## Course Outline
 
 > Introduction to NodeJS
- - Course Intro
- - History of Nodejs
- - Non blocking I/O
- - Hello World
- - Browser vs NodeJS
- - Node REPL
+ - <a href="./week-1/Lesson-1.md">Course Intro</a>
+ - <a href="./week-1/Lesson-1.md">History  Node </a>
+ - <a href="./week-1/Lesson-1.md">Node REPL</a>
+ - <a href="./week-1/Lesson-1.md">Hello World</a>
+ - <a href="./week-1/Lesson-2.md">Browser vs NodeJS</a>
+ - <a href="./week-1/Lesson-3.md">Non blocking I/O</a>
   
 > Creating a CLI
  - Process and Environment

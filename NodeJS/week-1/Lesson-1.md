@@ -33,3 +33,57 @@ Node.js became popular quickly because it could handle a large number of concurr
 - Node.js Today:
 
 Node.js is now a mature and stable platform used by many companies to build high-performance network applications. It has a large and active community of developers who continue to develop new modules and frameworks to extend its capabilities. Node.js is often used in combination with other technologies, such as databases, front-end frameworks, and cloud platforms, to build full-stack web applications.
+
+# Hello World
+
+Let’s get started with writing our very first Node.js program. But, what is a Node.js program? Simple, some JavaScript!
+
+```jsx
+console.log('hello world')
+```
+
+Ok, this is cool, but now what? How do we go about executing this code? We can use the Node CLI for this. In your terminal, run:
+
+```bash
+node index.js
+```
+
+By use the Node CLI, we can then execute a JavaScript file by using path to that file. That’s it! You’ve created your first JavaScript program. If you did this right, you’ll see hello world in the terminal, which in Node.js, is the console.
+
+# Node REPL
+
+Node.js is a popular open-source server environment built on Chrome's V8 JavaScript engine. One of the most useful tools provided by Node.js is the REPL (Read-Eval-Print-Loop), which allows you to execute JavaScript code interactively in a terminal.
+
+The Node REPL is similar to a command-line interface for JavaScript. It is an interactive environment where you can enter JavaScript code and see the results immediately. It is great for testing out small pieces of code or experimenting with new features.
+
+To start the Node REPL, simply open your terminal and type `node`. This will give you access to the Node REPL prompt where you can start typing your JavaScript code.
+
+Here are some examples of how to use the Node REPL:
+
+```bash
+// Basic arithmetic
+> 2 + 2
+4
+
+// String manipulation
+> 'hello, world'.toUpperCase()
+'HELLO, WORLD'
+
+// Defining a variable
+> var x = 10
+undefined
+> x
+10
+
+// Using a function
+> function add(a, b) { return a + b }
+undefined
+> add(3, 5)
+8
+```
+
+The Node REPL is a great tool for quickly testing out ideas, debugging code, or experimenting with new features. It can also be useful for prototyping code before integrating it into a larger project.
+
+However, the Node REPL is not a substitute for a proper development environment. It is not designed for writing large or complex code, and it lacks many of the features and tools that are available in a full-fledged IDE or text editor.
+
+Overall, the Node REPL is a useful tool for any JavaScript developer, but it should be used in tandem with a proper development environment to ensure the best results.
