@@ -40,6 +40,12 @@ In this course, you will learn how to build dynamic and interactive web applicat
  - Note CRUD
  - Updating commands
 
+> Testing
+ - Why testing
+ - Testing frameworks
+ - Testing in Node
+ - Testing with Jest
+    
 > Servers 
  - What is a server 
  - Vanilla Server
