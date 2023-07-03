@@ -137,6 +137,11 @@ export default App
 ```
 
 - Run your application and see the result.
+  
+```jsx
+//using vite
+$ npm run dev
+```
 - From the code above:
   - When the <code> + </code> button containing the <code>handleIncrement</code> function is clicked, the count state variable is updated by adding 1 to it. 
   - When the <code> - </code> button containing the <code>handleDecrement</code> function is clicked, the count state variable is updated by subtracting 1 from it.
