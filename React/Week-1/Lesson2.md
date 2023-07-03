@@ -77,12 +77,19 @@ const [state, setStateFunction] = useState(initialState);
 - Create a new React application using CRA or Vite.
 
 ```jsx
+//using vite (recommended)
 $ npm create vite@latest counter-app
+
+$ cd counter-app
+
+$ npm install
 ```
 - Inside the <code>App.jsx</code>, remove the boilerplate code and add the code below.
 
   
 ```jsx
+//App.jsx
+
 //useState import
 import { useState } from "react"
 
