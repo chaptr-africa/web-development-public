@@ -123,6 +123,6 @@ const FunctionalComponent = ()=>{
 
 - Create a new React application using Vite that returns a simple JSX element rendering Hello World in your browser.
 
-> Next Lesson - Styling && Props vs State in React
+> Next Lesson - Styling, State and Events
 
 
