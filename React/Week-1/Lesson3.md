@@ -125,3 +125,5 @@ const Counter = ({count, handleIncrement, handleDecrement}) =>{
 > Explanation
 - In the code above, we've implemented conditional rendering using the ternary operator and the && operator. The ternary operator is used to conditionally render the message <code>Count is greater than 10</code> when the count is greater than 10, and the message <code>Count is less than 10</code> when the count is less than 10. The && operator is used to conditionally render the message <code>Count is less than 0</code> when the count is less than 0.
 - With that, we've successfully implemented conditional rendering in the Counter App. When running the application using <code>npm run dev</code>, the code will work as expected.
+
+> Next Lesson - List and Keys, useEffect Hook
