@@ -1,13 +1,89 @@
-<h1 align="center">Lesson 1: useEffect Hook, map, reduce, filter</h1>
+<h1 align="center">React Router Dom: Lesson 1</h1>
 
-In this lesson we will learn about an inbuilt React hook called `useEffect`, we are also going to learn one of the main key concepts of React, which is consuming APIs using the `useEffect` hook and the fetch API.
-There will also be a quick overview on how to set up your React application ready to consume REST APIs by the Django Rest Framework.
+- React is referred to as a Single Page Application <code>SPA</code>. To implement routing in React you need an external library called <code>react-router-dom.</code>.
+- In this lesson you will learn how to, install and use the <code>react-router-dom</code> library to implement routing in your React application.
+- Installation
+  - <a href="https://reactrouter.com">react-router-dom</a> -Website
 
-## useEffect Hook
-In addition to the useEffect hook, you will be given a detailed explanation of using higher order functions such as `map`, `filter` and `reduce` to manipulate data.
+  ```jsx
+  //Install package
+    $ npm install react-router-dom
+  ```
 
-- Read about the useEffect Hook <a href="https://reactjs.org/docs/hooks-effect.html">here</a> or <a href="https://www.robinwieruch.de/react-useeffect-hook/">here</a>
-- Watch videos
-  - <a href="https://www.youtube.com/watch?v=Rs8TmmZf_yM&list=PL_c9BZzLwBRKFRIBWEWYCnV4Lk9HE3eYJ&index=22">Intro to useEffect</a>
-  - <a href="https://www.youtube.com/watch?v=0H0S6A2leaA&list=PL_c9BZzLwBRKFRIBWEWYCnV4Lk9HE3eYJ&index=23">Dependancy Array</a>
-  - <a href="https://www.youtube.com/watch?v=_-7n_7DkI28&list=PL_c9BZzLwBRKFRIBWEWYCnV4Lk9HE3eYJ&index=24">Displaying data</a>
+<h2>Usage</h2>
+
+- By default, your application will only have the home route<code> '/' </code> as the main route. Whatever is fed into the <code>App</code> component will be rendered on the home route.
+- To have various paths in your application, you will need to configure the <code>react-router-dom</code> library and define the various paths in your application.
+- Initially, if you created the React project with vite, you <code>main.jsx</code> file (the root file) had the following boiler-plate code.
+
+```jsx 
+import React from 'react'
+import ReactDOM from 'react-dom'
+import App from './App.jsx'
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+)
+```
+- This meant that whatever was in you <code>App.jsx</code> file component will be the default render of the application.
+
+<h3>Configuring Routes using React Router</h3>
+
+**NOTE** All this is implemented inside the <code>main.jsx</code> file (the root file).
+- We first need to import the required components from the <code>react-router-dom</code> library at the top of the file.
+  
+```jsx
+//main.jsx
+//... All other imports appear here
+
+//react-router-dom imports
+import { createBrowserRouter, RouterProvider} from "react-router-dom"
+```
+
+- We have imported two components from the <code>react-router-dom</code> library.
+  - <code>createBrowserRouter</code> - Defines the various paths that will be in our application
+  - <code>RouterProvider</code> - Provides the routes defined above to our application
+
+- After that, utilize the imports
+
+```jsx
+//main.jsx
+
+//... Imports appear here
+
+const routes = createBrowserRouter([
+  {
+    path: '/',
+    element: <App/>
+  },
+  {
+    path: '/about',
+    element: <AboutComponent/>
+  }
+])
+```
+
+
+- After defining our routes we now have to provide them to our applicaton.
+  
+```jsx
+//main.jsx
+
+//... Imports appear here
+
+const routes = createBrowserRouter([...])
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <RouterProvider router={routes}>
+  </React.StrictMode>
+)
+```
+
+- We have called the RouterProvider from react-router-dom and passed the routes we defined above as a prop to the RouterProvider component.
+- From the above code, we have initialized the home page to be the <code>App</code> component, so your application should appear the same as it was initially as <code>App</code> as the home page.
+- On the other defined path, assuming you already have a component called the <code>AboutComponent</code> , it will be rendered on the <code>/about</code> path.
+- Assuming you application is running on port <code>http://localhost:5173</code>, when you direct the url to <code>http://localhost:5173/about</code>, you should be able to see whatever is being rendered by the about component.
+- And that's it, we already have configured routing in our application and defined the two paths that will be in our application. i.e <code>/</code> and <code>/about</code>

@@ -147,3 +147,6 @@ export default RickAndMorty;
 Vercel is a cloud platform for static sites and Serverless Functions. It enables developers to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration. Vercel is a company behind Next.js, a popular framework for building server-rendered React applications.
 Deploying our React App to Vercel is very easy, this will be guided by the TM and the TAs.
 - Read about vercel <a href="https://vercel.com/">here</a> and create an account.
+
+
+> Next Lesson: Routing using React Router Dom
