@@ -87,3 +87,54 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 - On the other defined path, assuming you already have a component called the <code>AboutComponent</code> , it will be rendered on the <code>/about</code> path.
 - Assuming you application is running on port <code>http://localhost:5173</code>, when you direct the url to <code>http://localhost:5173/about</code>, you should be able to see whatever is being rendered by the about component.
 - And that's it, we already have configured routing in our application and defined the two paths that will be in our application. i.e <code>/</code> and <code>/about</code>
+
+
+<h3>Linking Using the {Link} component from react-router-dom</h3>
+
+- For now we can only navigate to the <code>/about</code> path by typing the url in the browser. We need to have a way of navigating from one page to the other.
+- For navigating from one page to the other, we will use the <code>Link</code> component from the <code>react-router-dom</code> library.
+
+- Inside your <code>App.jsx</code> file component, import the <code>Link</code> component from the <code>react-router-dom</code> library. We do not use the normal <code>a</code> tag to navigate between pages in React. We use the <code>Link</code> component from the <code>react-router-dom</code> library. The <code>to</code> property will act as the <code>href</code> attribute in the <code>a</code> tag. The <code>'/about'</code> value should match exactly with what is in you <code>main.jsx</code> file where the paths are defined.
+
+```jsx
+//App.jsx
+
+//Link component import
+import { Link } from "react-router-dom"
+
+//App functional component
+const App = ()=>{
+  return (
+    <>
+      <h1>Home Page</h1>
+      {/**Link component to direct to about page */}
+      <Link to="/about">About</Link>
+    </>
+  )
+}
+
+export default App
+```
+
+- We can also implement the navigation back to our home page from the about page. We will use the same <code>Link</code> component to navigate back to the home page.
+
+```jsx
+//AboutComponent.jsx
+
+//link import
+import { Link } from "react-router-dom"
+
+const AboutComponent = ()=>{
+  return (
+    <>
+      <h1>About Page</h1>
+      {/**Routing link back to home page */}
+      <Link to="/">Home</Link>
+    </>
+  )
+}
+```
+
+- This will take us back to our home page when the About link is clicked.
+  
+> Next Lesson: Dynamic Routing, deployment of SPAs.
