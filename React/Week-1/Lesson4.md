@@ -63,8 +63,8 @@ const DisplayData = () => {
   return (
     <>
       {/* Map function to loop over our data */}
-          {data.map((item) => (
-          
+      {data.map((item) => {
+        return (
         // Using the id as the key
         <div key={item.id}>
           {/* Accessing the language property */}
@@ -73,7 +73,7 @@ const DisplayData = () => {
           {/* Accessing the description property */}
           <div>{item.description}</div>
         </div>
-      ))}
+      )})}
     </>
   );
 };
