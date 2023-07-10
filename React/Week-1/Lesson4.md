@@ -40,34 +40,43 @@ const data = [
 - We now need to display the data using the <code>map</code>, creating the <code>divs</code> and <code>h1</code> tags dynamically will be done in the <code>map</code> method.
 
 ```jsx
-//Component to display Data called DisplayData
-const DisplayData = ()=>{
+// Component to display Data called DisplayData
+const DisplayData = () => {
+  const data = [
+    {
+      id: 0,
+      language: "JavaScript",
+      description: "Software Engineering",
+    },
+    {
+      id: 1,
+      language: "Python",
+      description: "Data Science",
+    },
+    {
+      id: 2,
+      language: "Kotlin",
+      description: "Android Development",
+    },
+  ];
+
   return (
     <>
-
-    {/**Map function to loop over our rata */}
-
-      {data.map((item)=>{
-        return (
-
-          {/**Using the id as the key */}
-
-          <div key={item.id}>
-
-          {/**Accessing the language property */}
-
-            <div>{item.language}</div>
-
-            {/**Accessing the description property */}
-            
-            <div>{item.description}</div>
-          </div>
-        )
-
-      })}
+      {/* Map function to loop over our data */}
+          {data.map((item) => (
+          
+        // Using the id as the key
+        <div key={item.id}>
+          {/* Accessing the language property */}
+          
+          <div>{item.language}</div>
+          {/* Accessing the description property */}
+          <div>{item.description}</div>
+        </div>
+      ))}
     </>
-  )
-}
+  );
+};
 
 export default DisplayData;
 ```
