@@ -3,7 +3,7 @@
 - In this lesson you'll be introduced to a styling pre-processor(Saas) and a utility-first CSS framework (Tailwind CSS). You'll also be introduced to the useState hook and event handling in React by building a simple calculator app.
   - Sass <a href="https://sass-lang.com/guide">documentation.</a>
   - useState Hook <a href="https://reactjs.org/docs/hooks-state.html">documentation.</a>
-  - TailwindCSS <a here="https://tailwindcss.com/docs">documentation</a>
+  - TailwindCSS <a href="https://tailwindcss.com/docs">documentation</a>
 
 <hr>
 <br>
