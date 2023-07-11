@@ -93,4 +93,4 @@ export default UserList
 - In the example above, we used the <code>useFetch</code> hook to fetch users from an API. The <code>useFetch</code> hook returns an object that contains the data and loading state. We then used the data and loading state to display the users or a loading message depending on the loading state.
 - And that's it! We have created a custom hook that we can use to fetch data from an API in any component.
 
-> Next Lesson: useRef hook
+> Next Lesson: Refs and useRef hook
