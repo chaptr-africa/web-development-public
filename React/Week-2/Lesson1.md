@@ -27,7 +27,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </React.StrictMode>
 )
 ```
-- This meant that whatever was in you <code>App.jsx</code> file component will be the default render of the application.
+- This meant that whatever was in your <code>App.jsx</code> file component will be the default render of the application.
 
 <h3>Configuring Routes using React Router</h3>
 
@@ -53,6 +53,7 @@ import { createBrowserRouter, RouterProvider} from "react-router-dom"
 
 //... Imports appear here
 
+//Create browser router will be used to define the various paths in our application
 const routes = createBrowserRouter([
   {
     path: '/',
@@ -85,9 +86,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 - We have called the RouterProvider from react-router-dom and passed the routes we defined above as a prop to the RouterProvider component.
 - From the above code, we have initialized the home page to be the <code>App</code> component, so your application should appear the same as it was initially as <code>App</code> as the home page.
 - On the other defined path, assuming you already have a component called the <code>AboutComponent</code> , it will be rendered on the <code>/about</code> path.
-- Assuming you application is running on port <code>http://localhost:5173</code>, when you direct the url to <code>http://localhost:5173/about</code>, you should be able to see whatever is being rendered by the about component.
+- Assuming your application is running on port <code>http://localhost:5173</code>, when you direct the url to <code>http://localhost:5173/about</code>, you should be able to see whatever is being rendered by the about component.
 - And that's it, we already have configured routing in our application and defined the two paths that will be in our application. i.e <code>/</code> and <code>/about</code>
-
+- **Note**:Make sure you have a <code>AboutComponent</code> in your code to be able to see the about page.
 
 <h3>Linking Using the {Link} component from react-router-dom</h3>
 
