@@ -3,6 +3,7 @@
 - Refs are a way to access DOM nodes or React elements created in the render method.
 - Instead of using `document.getElementById()` or `document.querySelector()`, we can use refs to access DOM nodes.
 - Refs can also be used with functional components via the `useRef()` hook.
+- Read more about the <code>ref</code> and <code>useRef</code> hook <a href="https://react.dev/learn/referencing-values-with-refs">here</a>.
 
 <h2>Uses of <code>ref</code></h2>
 
