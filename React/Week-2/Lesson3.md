@@ -31,20 +31,25 @@ const useFetch = (url)=>{
   //state to store loading status
   const [loading, setLoading] = useState(true)
 
-
   //function to fetch data from url
   const fetchData = async ()=>{
+    try {
     const response = await fetch(url)
     const data = await response.json()
     setData(data)
+    setLoading(false)
+    } catch(error) {
+      console.log(error)
+      setLoading(false)
+    }
+
   } 
   
   //useEffect hook to fetch data from url 
   useEffect(()=>{
     fetchData()
-    setLoading(false)
 
-  }, [])
+  }, [url])
   //the useFetch function return an object that contains the data and loading state
   return { data, loading }
 }
