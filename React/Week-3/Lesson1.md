@@ -44,7 +44,7 @@ const App = ()=>{
    * @argument {object} reducer - the reducer function
    * @argument {object} initialState - the initial state
    */
-  const [state, dispatch] = useDispatch(reducer, initialState)
+  const [state, dispatch] = useReducer(reducer, initialState)
 }
 
 ```
