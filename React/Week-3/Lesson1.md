@@ -86,7 +86,7 @@ const App = ()=>{
   return (
     <div>
       <h1>Count</h1>
-      <p> { count } </p>
+      <p> { state.count } </p>
       <button onClick={increment}> + </button>
       <button onClick={decrement}> - </button>
     </div>
