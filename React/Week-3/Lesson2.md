@@ -39,7 +39,7 @@ const ThemeProvider = ({children})=>{
     }
     return (
         //return the provider with the value prop that contains the state and the function that will update the state
-        <ThemeContext.Provider value={{theme, handleTheme}}>
+        <ThemeContext.Provider value={{theme, handleThemeChange}}>
             {children}
         </ThemeContext.Provider>
     )
