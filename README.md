@@ -1,4 +1,4 @@
-# Web Development Public
+# Software Development Public
 ### Official curriculum for the Zindua Web Development Bootcamp with Python and JavaScript
 In this bootcamp, you will learn the essential skills for Web Development to be able to unlock careers as a Backend Developer, Frontend Developer or Full-Stack Web Developer. To learn more about the bootcamp, [visit our Web Development website page](https://chaptrglobal.com/blog/bootcamp/django-web-development-bootcamp/).
 
