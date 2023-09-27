@@ -1,24 +1,20 @@
 # Software Development Public
 ### Official curriculum for the Zindua Software Development Bootcamp 
-In this bootcamp, you will learn the essential skills for Software Development to be able to unlock careers as a Backend Developer, Frontend Developer or Full-Stack Web Developer. To learn more about the program, [visit our Software Development website page](https://zinduaschool.com/programs/software-development-bootcamp/)).
+In this bootcamp, you will learn the essential skills for Software Development to be able to unlock careers as a Backend Developer, Frontend Developer or Full-Stack Web Developer. To learn more about the program, [visit our Software Development website page](https://zinduaschool.com/programs/software-development-bootcamp/).
 
-To apply for the Zindua Software Development bootcamp, [go to our APPLY page](https://zinduaschool.com/apply).
+To apply for the Zindua Software Development program, [go to our APPLY page](https://zinduaschool.com/apply).
 
 ## The Program Breakdown
-The general Web Development bootcamp runs for **30 weeks** and covers the following key modules:
-*Content Summary Comming Soon*
-
-### Available Specialisations
-Learners will have a chance to build up on their fundamental Web Development skills by specialising in one of the following extra modules based on their interest:
+The Software Development program runs for **30 weeks** and covers the following key modules:
 *Content Summary Comming Soon*
 
 ### Additional Skills
 All our graduates will also have access to bonus modules covering key concepts and skills for their careers in technology. These include:
 1. Cloud Computing with **Amazon Web Services** or **Microsoft Azure** (On program completion)
-2. Data Algorithms and Data Structures (On program completion)
-3. Bonus enrichment programs (Workshops are available to all students after every 5-week module sprint:
-  - **Career Development:** Learn some of the key professional skills for your general career. The module covers everything from Resumes/CVs, Personal Branding to Handling Job Interviews. [View the curriculum to learn more](https://chaptrglobal.com/blog/bootcamp/python-data-science-bootcamp/).
-  - **Tech Entrepreneurship:** We seek to build graduates who do not rely entirely on available job opportunities but rather can work on building solutions to existing local problems and eventually provide more employment opportunities for their local economies. The program covers the primary tech startup skills from design thinking, market research, minimum viable product to advanced concepts such as startup financing, product analytics, and legal structures. [View the curriculum to learn more](https://chaptrglobal.com/blog/bootcamp/python-data-science-bootcamp/).
+2. Algorithms and Data Structures 
+3. Bonus enrichment programs (Workshops are available to all enrolled students:
+  - **Career Development:** Learn some of the key professional skills for your general career. The module covers everything from Resumes/CVs, Personal Branding to Handling Job Interviews. 
+  - **Tech Events and Workshops:** We hold events and workshops every 5 weeks, covering different tech diciplines such as Blockchain Development, Product Design, PowerBI, No-Code Development among others.
 
 ## Our Learning Model
 Chaptr is an entirely virtual bootcamp pedominantly focused on young learners from Africa's developing nations. Here are the key details on our operations model:
