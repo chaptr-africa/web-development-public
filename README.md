@@ -1,8 +1,8 @@
 # Software Development Public
-### Official curriculum for the Zindua Web Development Bootcamp with Python and JavaScript
-In this bootcamp, you will learn the essential skills for Web Development to be able to unlock careers as a Backend Developer, Frontend Developer or Full-Stack Web Developer. To learn more about the bootcamp, [visit our Web Development website page](https://chaptrglobal.com/blog/bootcamp/django-web-development-bootcamp/).
+### Official curriculum for the Zindua Software Development Bootcamp 
+In this bootcamp, you will learn the essential skills for Software Development to be able to unlock careers as a Backend Developer, Frontend Developer or Full-Stack Web Developer. To learn more about the program, [visit our Software Development website page](https://zinduaschool.com/programs/software-development-bootcamp/)).
 
-To apply for the Chaptr Data Science bootcamp, [go to our website APPLY page](https://chaptrglobal.com/apply).
+To apply for the Zindua Software Development bootcamp, [go to our APPLY page](https://zinduaschool.com/apply).
 
 ## The Program Breakdown
 The general Web Development bootcamp runs for **30 weeks** and covers the following key modules:
