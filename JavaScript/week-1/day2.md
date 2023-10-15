@@ -1,11 +1,154 @@
-# Control structures and loops.
+**Title 1: Control Structures**
 
-## Control Structures
-[Watch video](https://www.youtube.com/watch?v=Fk3tdDAWkCI) JavaScript Decision Statemets
+- **What are Control Structures?**
+  - Control structures are statements that allow you to control the flow of your program. They enable you to make decisions and execute different code blocks based on conditions.
 
-## Loops
-[Watch video](https://www.youtube.com/watch?v=sQ7YA0x8eUg) Iteration Statements
+- **`if...else` Statements**
+  - The `if...else` statement is used to perform different actions based on a condition.
+  - Example:
+    ```javascript
+    if (condition) {
+      // Code to run if the condition is true
+    } else {
+      // Code to run if the condition is false
+    }
+    ```
 
+- **`switch...case` Statements**
+  - The `switch...case` statement is used for multiple-choice decisions.
+  - It provides a cleaner way to handle multiple conditions.
+  - Example:
+    ```javascript
+    switch (value) {
+      case option1:
+        // Code to run for option1
+        break;
+      case option2:
+        // Code to run for option2
+        break;
+      default:
+        // Code to run if no matches are found
+    }
+    ```
+
+<hr>
+<hr>
+
+
+**Title 2: Basic Math Operations**
+
+- **Arithmetic Operators**
+  - JavaScript supports standard arithmetic operators:
+    - Addition (+)
+    - Subtraction (-)
+    - Multiplication (*)
+    - Division (/)
+    - Modulus (%) - Calculates the remainder
+
+- **Example: Arithmetic Operations**
+  ```javascript
+  let x = 5;
+  let y = 3;
+  let sum = x + y; // Addition
+  let difference = x - y; // Subtraction
+  let product = x * y; // Multiplication
+  let quotient = x / y; // Division
+  let remainder = x % y; // Modulus
+  ```
+
+<hr>
+<hr>
+
+
+**Title 3: Functions and Scopes**
+
+- **Functions in JavaScript**
+  - Functions are blocks of code that can be defined and reused.
+  - They encapsulate logic and can accept parameters and return values.
+  - Example:
+    ```javascript
+    function greet(name) {
+      return "Hello, " + name + "!";
+    }
+    let greeting = greet("Alice");
+    ```
+
+- **Scopes**
+  - JavaScript has two main types of scope:
+    1. Global Scope: Variables declared outside functions are in the global scope and can be accessed from anywhere.
+    2. Local Scope: Variables declared inside functions are in a local scope and can only be accessed within that function.
+
+- **Scope Example**
+  ```javascript
+  let globalVar = "I'm global!";
+
+  function myFunction() {
+    let localVar = "I'm local!";
+    console.log(globalVar); // Accessible
+    console.log(localVar);  // Accessible
+  }
+
+  myFunction();
+  console.log(globalVar); // Accessible
+  console.log(localVar);  // Not accessible (generates an error)
+  ```
+
+**Key Takeaways**:
+
+- Control structures allow you to make decisions in your code.
+- Basic math operations are essential for performing calculations.
+- Functions and scopes are fundamental concepts in JavaScript, enabling code organization and data encapsulation.
+
+<hr>
+<hr>
+
+**Title 4: Practical Examples**
+
+- **Example 1: Conditional Statement**
+
+  ```javascript
+  let age = 20;
+
+  if (age >= 18) {
+    console.log("You are an adult.");
+  } else {
+    console.log("You are a minor.");
+  }
+  ```
+
+- **Example 2: Arithmetic Operations**
+
+  ```javascript
+  let x = 10;
+  let y = 4;
+  let sum = x + y;
+  let product = x * y;
+  ```
+
+- **Example 3: Functions and Scopes**
+
+  ```javascript
+  let globalVar = "I'm global!";
+
+  function myFunction() {
+    let localVar = "I'm local!";
+    console.log(globalVar); // Accessible
+    console.log(localVar);  // Accessible
+  }
+
+  myFunction();
+  console.log(globalVar); // Accessible
+  console.log(localVar);  // Not accessible (generates an error)
+  ```
+
+**Key Takeaways**:
+
+- Practice is crucial for reinforcing your understanding.
+- Use these examples as a starting point to experiment and expand your coding skills.
+- Understanding control structures, math operations, functions, and scopes is vital for creating complex applications.
+
+<hr>
+<hr>
 
 # Challenge: Sum of numbers between 1 and 'n'
 
