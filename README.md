@@ -6,7 +6,8 @@ To apply for the Zindua Software Development program, [go to our APPLY page](htt
 
 ## The Program Breakdown
 The Software Development program runs for **30 weeks** and covers the following key modules:
-*Content Summary Comming Soon*
+**| Module/Course | Key Concepts | Curriculum | Duration |**
+|---|---|---|---|
 
 ### Additional Skills
 All our graduates will also have access to bonus modules covering key concepts and skills for their careers in technology. These include:
@@ -33,4 +34,4 @@ Our graduates take top industry certifications by **Amazon Web Services**, **Goo
 6. Microsoft Certified: Azure DevOps Engineer Expert
 
 ## Apply for the Next Cohort
-Software Development program intakes are rolling and you can apply for the next cohort at any time across the year. Just be sure to set aside 25-40 weeks to work on whichever program you choose from our program choices. [Visit our website](https://zinduaschool.com) to learn more or [go straight to our application page and make your application](https://zinduaschool.com/apply).
+Our program intakes are rolling (every 5-weeks) and you can apply for the next cohort at any time across the year. [Visit our website](https://zinduaschool.com) to learn more or [go straight to our application page and make your application](https://zinduaschool.com/apply).
