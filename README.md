@@ -10,7 +10,8 @@ The Software Development program runs for **30 weeks** and covers the following 
 | Module/Course | Key Concepts | Curriculum | Duration |
 |---|---|---|---|
 | HTML & CSS | HTML Structure, CSS Styling, Responsive Design | [Join Free Course](https://app.zinduaschool.com/free) | 2.5 weeks |
-| JavaScript Programming | Variables and Data Types, Conditional Statements and Loops, Functions, Event handling| [View Curriculum](https://github.com/zinduaschool/software-development-public/tree/main/JavaScript) | 5 weeks |
+| JavaScript Programming | Variables and Data Types, Conditional Statements and Loops, Functions, Event Handling | [View Curriculum](https://github.com/zinduaschool/software-development-public/tree/main/JavaScript) | 5 weeks |
+| ReactJS Frontend Development | Components, State and Props, React Router, State Management | [View Curriculum]([https://github.com/zinduaschool/software-development-public/tree/main/JavaScript](https://github.com/zinduaschool/software-development-public/tree/main/React)) | 5 weeks |
 
 
 ### Additional Skills
