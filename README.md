@@ -14,6 +14,7 @@ The Software Development program runs for **30 weeks** and covers the following 
 | ReactJS Frontend Development | Components, State and Props, React Router, React Hooks and APIs, State Management | [View Curriculum](https://github.com/zinduaschool/software-development-public/tree/main/React) | 5 weeks |
 | Python Programming | Python Basics, Variables and Data Types, Libraries and Modules, Object Oriented Programming, Using Web Services | [View Curriculum](https://github.com/zinduaschool/data-science-public/tree/main/02-python-programming) | 5 weeks |
 | Django Backend Development | MVC Architecture, URL Routing, Django Models, Views and Templates, Django Forms | [View Curriculum](https://github.com/zinduaschool/software-development-public/tree/main/Django) | 5 weeks |
+| Systems Design | Systems Design Fundamentals, Test Driven Development, Containerization, Cloud Computing, Real Life Examples | [View Curriculum](https://github.com/zinduaschool/software-development-public/tree/main/SystemsDesign) | 5 weeks |
 
 
 ### Additional Skills
