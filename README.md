@@ -6,7 +6,8 @@ To apply for the Zindua Software Development program, [go to our APPLY page](htt
 
 ## The Program Breakdown
 The Software Development program runs for **30 weeks** and covers the following key modules:
-**| Module/Course | Key Concepts | Curriculum | Duration |**
+
+| Module/Course | Key Concepts | Curriculum | Duration |
 |---|---|---|---|
 
 ### Additional Skills
