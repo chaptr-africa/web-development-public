@@ -10,7 +10,7 @@ The course goes through the HTML, CSS, and Responsive Design fundamentals requir
 | 1.2 | HTML Elements and Attributes | Common HTML elements (headings, paragraphs, lists, links). HTML attributes and values | CHALLENGE: Create a simple HTML webpage | 
 | 1.3 | HTML Forms and Tables | Creating forms for user input. Building tables to organize data. Styling tables with HTML and CSS | QUIZ: Design a basic form for user feedback | 
 | 1.4 | HTML Images and Multimedia | Inserting images and multimedia. Image attributes and optimization | CHALLENGE: Build a webpage featuring images and video | 
-| 1.5 | HTML Project: Personal Portfolio | Create a personal portfolio webpage | Incorporate elements learned during the week. Share the webpage with peers for feedback | 
+| 1.5 | HTML Project: Personal Portfolio | Create a personal portfolio webpage | | 
 
 ## Week 2: CSS Styling
 | Index | Lesson | Content Breakdown | Project/Quiz |
@@ -19,4 +19,4 @@ The course goes through the HTML, CSS, and Responsive Design fundamentals requir
 | 2.2 | Selectors and Properties | CSS selectors (element, class, ID). Common CSS properties (color, font-size, margin). Styling text and backgrounds | CHALLENGE: Style a basic HTML webpage with CSS | 
 | 2.3 | Layout and Positioning | Box model and layout. Positioning elements (relative, absolute, fixed). Creating flexible layouts | QUIZ: Explain the CSS box model |
 | 2.4 | Responsive Design Principles | Understanding responsive web design. Media queries and breakpoints. Making webpages mobile-friendly | CHALLENGE: Implement responsive design in your personal portfolio |
-| 2.5 | CSS Project: Redesign a Blog | Redesign an existing blog webpage. Apply CSS styling and responsive design |  | 
+| 2.5 | CSS Project: Redesign a Blog | Redesign an existing blog webpage. Apply CSS styling and responsive design | | 
