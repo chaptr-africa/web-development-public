@@ -25,3 +25,7 @@ The course goes through the HTML, CSS, and Responsive Design fundamentals requir
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
 | 3.1 | Introduction to UI/UX | What is User Interface (UI)?. What is User Experience (UX)?. Principles of good UI/UX design | QUIZ: Define UI and UX in your own words | 
+| 3.2 | Wireframing and Prototyping | Creating wireframes for webpages. Prototyping for user testing. Tools for wireframing and prototyping | CHALLENGE: Develop a wireframe for a simple app | 
+| 3.3 | User-Centered Design | Understanding your target audience. User personas and user stories. Conducting usability testing | QUIZ: Explain the importance of user personas |
+| 3.4 | Visual Hierarchy and Interaction Design | Arranging content for visual impact. User interactions and feedback. Enhancing usability with animations | CHALLENGE: Enhance a webpage's visual hierarchy and interactions | 
+| 3.5 | UI/UX Project: Redesign a Web App | Redesign a web application interface
