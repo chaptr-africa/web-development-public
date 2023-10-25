@@ -7,3 +7,11 @@ The course goes through the HTML, CSS, and Responsive Design fundamentals requir
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
 | 1.1 | Introduction to HTML | What is HTML?. Structure of an HTML document. HTML tags and elements | QUIZ: Identify key HTML tags | 
+| 1.2 | HTML Elements and Attributes | Common HTML elements (headings, paragraphs, lists, links). HTML attributes and values | CHALLENGE: Create a simple HTML webpage | 
+| 1.3 | HTML Forms and Tables | Creating forms for user input. Building tables to organize data. Styling tables with HTML and CSS | QUIZ: Design a basic form for user feedback | 
+| 1.4 | HTML Images and Multimedia | Inserting images and multimedia. Image attributes and optimization | CHALLENGE: Build a webpage featuring images and video | 
+| 1.5 | HTML Project: Personal Portfolio | Create a personal portfolio webpage | Incorporate elements learned during the week. Share the webpage with peers for feedback | 
+
+## Week 2: CSS Styling
+| Index | Lesson | Content Breakdown | Project/Quiz |
+|---|---|---|---|
