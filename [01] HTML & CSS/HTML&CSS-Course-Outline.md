@@ -29,3 +29,6 @@ The course goes through the HTML, CSS, and Responsive Design fundamentals requir
 | 3.3 | User-Centered Design | Understanding your target audience. User personas and user stories. Conducting usability testing | QUIZ: Explain the importance of user personas |
 | 3.4 | Visual Hierarchy and Interaction Design | Arranging content for visual impact. User interactions and feedback. Enhancing usability with animations | CHALLENGE: Enhance a webpage's visual hierarchy and interactions | 
 | 3.5 | UI/UX Project: Redesign a Web App | Redesign a web application interface
+
+## Week 4: Web Design Capstone Project
+Students will work on a project where they can design and develop their own personal website that should be responsive and deployed.
