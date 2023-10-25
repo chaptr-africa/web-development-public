@@ -15,4 +15,8 @@ The course goes through the HTML, CSS, and Responsive Design fundamentals requir
 ## Week 2: CSS Styling
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
-| 2.1 |  Introduction to CSS | What is CSS and its importance. Inline, internal, and external CSS | QUIZ: Differentiate between types of CSS | 
+| 2.1 | Introduction to CSS | What is CSS and its importance. Inline, internal, and external CSS | QUIZ: Differentiate between the different types of CSS | 
+| 2.2 | Selectors and Properties | CSS selectors (element, class, ID). Common CSS properties (color, font-size, margin). Styling text and backgrounds | CHALLENGE: Style a basic HTML webpage with CSS | 
+| 2.3 | Layout and Positioning | Box model and layout. Positioning elements (relative, absolute, fixed). Creating flexible layouts | QUIZ: Explain the CSS box model |
+| 2.4 | Responsive Design Principles | Understanding responsive web design. Media queries and breakpoints. Making webpages mobile-friendly | CHALLENGE: Implement responsive design in your personal portfolio |
+| 2.5 | CSS Project: Redesign a Blog | Redesign an existing blog webpage. Apply CSS styling and responsive design |  | 
