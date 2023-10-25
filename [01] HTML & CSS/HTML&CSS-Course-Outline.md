@@ -15,3 +15,4 @@ The course goes through the HTML, CSS, and Responsive Design fundamentals requir
 ## Week 2: CSS Styling
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
+| 2.1 |  Introduction to CSS | What is CSS and its importance. Inline, internal, and external CSS | QUIZ: Differentiate between types of CSS | 
