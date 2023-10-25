@@ -20,3 +20,8 @@ The course goes through the HTML, CSS, and Responsive Design fundamentals requir
 | 2.3 | Layout and Positioning | Box model and layout. Positioning elements (relative, absolute, fixed). Creating flexible layouts | QUIZ: Explain the CSS box model |
 | 2.4 | Responsive Design Principles | Understanding responsive web design. Media queries and breakpoints. Making webpages mobile-friendly | CHALLENGE: Implement responsive design in your personal portfolio |
 | 2.5 | CSS Project: Redesign a Blog | Redesign an existing blog webpage. Apply CSS styling and responsive design | | 
+
+## Week 3: UI/UX Fundamentals
+| Index | Lesson | Content Breakdown | Project/Quiz |
+|---|---|---|---|
+| 3.1 | Introduction to UI/UX | What is User Interface (UI)?. What is User Experience (UX)?. Principles of good UI/UX design | QUIZ: Define UI and UX in your own words | 
