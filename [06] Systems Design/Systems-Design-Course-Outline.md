@@ -9,3 +9,8 @@ This course delves into the intricate world of systems design and algorithms, eq
 | 1.3 | Design Fundamentals Continued and Databases | Proxies (Forward and Reverse Proxy). Message Queues. File Systems. Introduction to databases (Relational and Non-Relational). ACID Properties. Database Replication and Partitioning. Normalization. DB Design | Design a file system structure for an e-commerce website where product images and details need to be stored efficiently. |
 | 1.4 | Test-Driven Development and Intro to Data Structures | What is Test-Driven Development? Benefits of TDD. Red/Green/Refactor Cycle. Basics of Data Structures and Algorithms. Introduction to key data structures (arrays, linked lists, trees, Stacks and Queues, Graphs) | |
 | 1.5 | Data Structures and Algorithms | Searching Algorithms (Linear Search and Binary Search), Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort), Divide and Conquer Algorithms (Merge Sort, QuickSort), Big O Notation and Time Complexity Analysis | Weekly Challenge: Implement a linear search algorithm to find an element in an array. Implement a simple sorting algorithm, such as Bubble Sort or Selection Sort, and use it to sort a list of data. Analyze the time complexity of the algorithms you implemented in earlier challenges and create Big O notation for them. |
+
+## Week 2: Containerization
+| Index | Lesson | Content Breakdown | Project/Quiz |
+|---|---|---|---|
+| 2.1 | Introduction to Microservices and Containers | Introduction to Microservices. Introduction to Cloud Native. Introduction to Containers. Persisting Data | Challenge: Students create a simple microservices-based application using containers (e.g., Docker) and deploy it in a cloud-native environment (e.g., Kubernetes) |
