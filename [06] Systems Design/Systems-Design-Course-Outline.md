@@ -13,4 +13,8 @@ This course delves into the intricate world of systems design and algorithms, eq
 ## Week 2: Containerization
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
-| 2.1 | Introduction to Microservices and Containers | Introduction to Microservices. Introduction to Cloud Native. Introduction to Containers. Persisting Data | Challenge: Students create a simple microservices-based application using containers (e.g., Docker) and deploy it in a cloud-native environment (e.g., Kubernetes) |
+| 2.1 | Introduction to Microservices and Containers | Introduction to Microservices. Introduction to Cloud Native. Introduction to Containers. Persisting Data | Challenge: Create a simple microservices-based application using containers (e.g., Docker) and deploy it in a cloud-native environment (e.g., Kubernetes) |
+| 2.2 | Docker Compose and Kubernetes Concepts | Docker Compose. Container Registries. Kubernetes Concepts. Namespaces. | Challenge: Use Docker compose to set up a multi-container application and deploy it locally. Then push container images to a container registry.) |
+| 2.3 | Kubernetes Pods, Selectors, and Workloads | Nodes. Pods. Selectors. Multi Container Pods. | Challenge: Set up a Kubernetes cluster (locally or using a cloud service) and create Pods with multiple containers, using selectors to organize and manage them. |
+| 2.4 | Kubernetes Workloads and Services | Nodes. Pods. Selectors. Multi Container Pods. | Challenge: Deploy an application using Kubernetes Workloads and practice updating the application with minimal service disruption. |
+| 2.5 | Storage, Scaling, and Observability | Storage & Persistence. Application Settings. Observability. Dashboards and Scaling | End of Week Challenge: Create a complete microservices-based application with containers, deploying it using Kubernetes, configuring application settings and observability, and implementing auto-scaling based on resource usage. |
