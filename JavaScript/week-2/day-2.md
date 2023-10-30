@@ -1,30 +1,64 @@
-# Events, event listeners, and event propagation.
 
-## Introduction to Event
-[Read](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+**Title 1:  More of Events, Event Listeners, Event Handlers, Event Propagation**
 
-## Event listeners
-[Read](https://www.tutorialrepublic.com/javascript-tutorial/javascript-event-listeners.php)
+- Event listeners are a fundamental part of web development. They allow us to respond to user actions such as clicks, mouse movements, and keyboard input.
+- In this session, we'll provide comprehensive coverage of event listeners, including different types of events, attaching event listeners, and removing event listeners.
 
-## Event listeners vs Event handlers
-[Watch Video](https://www.youtube.com/watch?v=xogpUfUL5kY)
+**Title 2: Event Listeners vs. Event Handlers**
+- Let's compare event listeners and event handlers with practical examples.
+- Event Listeners (JavaScript):
+  
+    ```javascript
+    const button = document.getElementById('myButton');
+    button.addEventListener('click', () => {
+        console.log('Button clicked with an event listener.');
+    });
+    ```
+- In this JavaScript example, we use `addEventListener` to attach a click event listener to the button with the ID 'myButton.' When the button is clicked, it logs a message to the console.
+- Event Handlers (HTML):
+    ```html
+    <button id="myButton" onclick="handleClick()">Click Me</button>
+    <script>
+      function handleClick() {
+        console.log('Button clicked with an event handler.');
+      }
+    </script>
+    ```
+-  In this HTML example, we define an event handler using the `onclick` attribute in the button element. When the button is clicked, the `handleClick` function is called, which logs a message to the console.
 
-## Event Propagation
-[Read](https://www.tutorialrepublic.com/javascript-tutorial/javascript-event-propagation.php)
+**Title 4: Event Propagation**
+- Explanation: Event propagation is how events in the DOM traverse the tree structure of elements. Understanding event propagation is crucial for handling events efficiently.
+- Phases: We'll cover the two phases of event propagation, capturing and bubbling, and how they influence event handling.
 
+**Title 5: Capturing Phase vs. Bubbling Phase**
+- Clarification: We'll provide a clear distinction between the capturing and bubbling phases of event propagation with code examples.
+- Capturing Phase:
+    ```javascript
+    document.getElementById('myElement').addEventListener('click', () => {
+        console.log('Capturing phase');
+    }, true);
+    ```
+- Explanation: In this JavaScript example, we use the third parameter `true` to indicate that the event listener should be in the capturing phase. When an element with the ID 'myElement' is clicked, it logs 'Capturing phase' to the console before the bubbling phase occurs.
+- Bubbling Phase:
+    ```javascript
+    document.getElementById('myElement').addEventListener('click', () => {
+        console.log('Bubbling phase');
+    });
+    ```
+- Explanation: In this JavaScript example, we omit the third parameter, allowing the event listener to operate in the default bubbling phase. When an element with the ID 'myElement' is clicked, it logs 'Bubbling phase' to the console after the capturing phase.
 
-# Coding Challenge
-Create a simple web page with two buttons, each with a different background color. When a button is clicked, the background color of the page should change to the color of the clicked button. Additionally, if the user clicks anywhere on the page outside of the buttons, the background color should return to its original color.
+**Title 6: Best Practices in Event Handling**
+- Recommendations: We'll discuss best practices for handling events to maintain clean, efficient, and maintainable code.
+- Performance: Tips for optimizing event handling for better application performance.
+- Code Structure: Structuring your code for scalability and maintainability in event-driven applications.
 
-### Requirements:
+**Title 7: Practical Example: Building an Image Gallery**
+- Let's apply what we've learned by building an image gallery that responds to user clicks and swipes. This hands-on example will cover event listeners, event propagation, and efficient event handling.
+- We'll walk through the HTML, CSS, and JavaScript code used to create the image gallery.
 
-- Use event listeners to detect when a button is clicked and when the page is clicked outside of the buttons.
-- Use event propagation to ensure that clicking on a button doesn't trigger the click event for the page.
-- Use CSS to style the buttons and the page.
+**Key Takeaways**
+- Let's summarize the key points covered today, including event listeners, event handlers, event propagation, and best practices in event handling.
+- The main takeaways from today's session, providing a solid understanding of how to work with events in web development.
 
-### Bonus:
-
-- Add more buttons with different colors and modify the code to handle these new buttons dynamically.
-- Add an undo button that allows the user to revert the background color to the previous state.
-
-Good luck!
+# Challenge
+- Create a simple web page with two buttons, each with a different background color. When a button is clicked, the background color of the page should change to the color of the clicked button. Additionally, if the user clicks anywhere on the page outside of the buttons, the background color should return to its original color.
