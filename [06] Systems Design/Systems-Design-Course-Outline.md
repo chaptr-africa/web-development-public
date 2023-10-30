@@ -22,4 +22,12 @@ This course delves into the intricate world of systems design and algorithms, eq
 ## Week 3: Cloud Computing
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
-| 3.1 | Introduction to Cloud Computing | Introduction to Microservices. Introduction to Cloud Native. Introduction to Containers. Persisting Data | Challenge: Create a simple microservices-based application using containers (e.g., Docker) and deploy it in a cloud-native environment (e.g., Kubernetes) |
+| 3.1 | Introduction to Cloud Computing | What is Cloud Computing? Key Characteristics of Cloud Computing. Advantages and Benefits of Cloud Services. Cloud Service Models (IaaS, PaaS, SaaS). AWS as a Leading Cloud Service Provider | Challenge: Set up an AWS Free Tier Account |
+| 3.2 | AWS Services and Solutions | AWS Core Services (EC2, S3, RDS, etc.). Additional AWS Services (Lambda, DynamoDB, Route 53, etc.). Understanding the AWS Global Infrastructure. Pricing Models in AWS | Challenge: Launch an EC2 Instance and Deploy a Sample Website |
+| 3.3 | Networking and Security on AWS | AWS Virtual Private Cloud (VPC). Subnets, Route Tables, and Security Groups. Identity and Access Management (IAM). Securing AWS Resources | Challenge: Create an AWS VPC and Set Up Secure Access|
+| 3.4 | Scaling and Load Balancing | Auto Scaling in AWS. Load Balancers in AWS. Ensuring High Availability. AWS Well-Architected Framework | Challenge: Configure Auto Scaling and Set Up a Load Balancer|
+| 3.5 | Storage and Databases in AWS | Amazon S3 for Object Storage. AWS Relational Database Service (RDS). NoSQL Databases (DynamoDB). Data Backup and Recovery| Challenge: Create an S3 Bucket, Set Up an RDS Database, and Perform Data Backups |
+
+## Week 4: Cloud Computing
+| Index | Lesson | Content Breakdown | Project/Quiz |
+|---|---|---|---|
