@@ -27,37 +27,32 @@
 -  In this HTML example, we define an event handler using the `onclick` attribute in the button element. When the button is clicked, the `handleClick` function is called, which logs a message to the console.
 
 **Title 4: Event Propagation**
-- Explanation: Event propagation is how events in the DOM traverse the tree structure of elements. Understanding event propagation is crucial for handling events efficiently.
-- Phases: We'll cover the two phases of event propagation, capturing and bubbling, and how they influence event handling.
+- Event propagation is how events in the DOM traverse the tree structure of elements. Understanding event propagation is crucial for handling events efficiently.
+- We'll cover the two phases of event propagation, capturing and bubbling, and how they influence event handling.
 
 **Title 5: Capturing Phase vs. Bubbling Phase**
-- Clarification: We'll provide a clear distinction between the capturing and bubbling phases of event propagation with code examples.
+-  We'll provide a clear distinction between the capturing and bubbling phases of event propagation with code examples.
 - Capturing Phase:
     ```javascript
     document.getElementById('myElement').addEventListener('click', () => {
         console.log('Capturing phase');
     }, true);
     ```
-- Explanation: In this JavaScript example, we use the third parameter `true` to indicate that the event listener should be in the capturing phase. When an element with the ID 'myElement' is clicked, it logs 'Capturing phase' to the console before the bubbling phase occurs.
+- In this JavaScript example, we use the third parameter `true` to indicate that the event listener should be in the capturing phase. When an element with the ID 'myElement' is clicked, it logs 'Capturing phase' to the console before the bubbling phase occurs.
 - Bubbling Phase:
     ```javascript
     document.getElementById('myElement').addEventListener('click', () => {
         console.log('Bubbling phase');
     });
     ```
-- Explanation: In this JavaScript example, we omit the third parameter, allowing the event listener to operate in the default bubbling phase. When an element with the ID 'myElement' is clicked, it logs 'Bubbling phase' to the console after the capturing phase.
+- In this JavaScript example, we omit the third parameter, allowing the event listener to operate in the default bubbling phase. When an element with the ID 'myElement' is clicked, it logs 'Bubbling phase' to the console after the capturing phase.
 
-**Title 6: Best Practices in Event Handling**
-- Recommendations: We'll discuss best practices for handling events to maintain clean, efficient, and maintainable code.
-- Performance: Tips for optimizing event handling for better application performance.
-- Code Structure: Structuring your code for scalability and maintainability in event-driven applications.
-
+  
 **Title 7: Practical Example: Building an Image Gallery**
 - Let's apply what we've learned by building an image gallery that responds to user clicks and swipes. This hands-on example will cover event listeners, event propagation, and efficient event handling.
 - We'll walk through the HTML, CSS, and JavaScript code used to create the image gallery.
 
 **Key Takeaways**
-- Let's summarize the key points covered today, including event listeners, event handlers, event propagation, and best practices in event handling.
 - The main takeaways from today's session, providing a solid understanding of how to work with events in web development.
 
 # Challenge
