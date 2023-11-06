@@ -1,10 +1,87 @@
 # Event delegation and bubbling.
 
-[Read](https://vegibit.com/javascript-event-propagation-and-bubbling/)
+- Event bubbling is a type of event propagation where the event first triggers on the innermost target element, and then successively triggers on the ancestors (parents) of the target element in the same nesting hierarchy till it reaches the outermost DOM element. This type of propagation is supported by all major browsers. The opposite of bubbling is event capturing, which is supported only by a few browsers.
+  
+> Example:
+```html
+<div class="outer">
+  <div class="inner">
+    <button>Click me</button>
+  </div>
+</div>
+```
+```javascript
+const outer = document.querySelector('.outer');
+const inner = document.querySelector('.inner');
+const button = document.querySelector('button');
 
-[Watch video](https://www.youtube.com/watch?v=KaHZdW02Tg0) Event bubbling in JavaScript
+outer.addEventListener('click', () => {
+  console.log('The outer div was clicked');
+});
 
-[Watch Video](https://www.youtube.com/watch?v=aZ3JWv0ofuA) Event Delegation in JavaScript
+inner.addEventListener('click', () => {
+  console.log('The inner div was clicked');
+});
+
+button.addEventListener('click', () => {
+  console.log('The button was clicked');
+});
+```
+
+- Event capturing is a type of event propagation where the event is first captured by the outermost element and then successively triggers on the descendants (children) of the target element in the same nesting hierarchy till it reaches the innermost DOM element. This type of propagation is supported only by a few browsers. The opposite of capturing is event bubbling, which is supported by all major browsers.
+
+> Example:
+```html
+<div class="outer">
+  <div class="inner">
+    <button>Click me</button>
+  </div>
+</div>
+```
+```javascript
+const outer = document.querySelector('.outer');
+const inner = document.querySelector('.inner');
+const button = document.querySelector('button');
+
+outer.addEventListener('click', () => {
+  console.log('The outer div was clicked');
+}, true);
+
+inner.addEventListener('click', () => {
+  console.log('The inner div was clicked');
+}, true);
+
+button.addEventListener('click', () => {
+  console.log('The button was clicked');
+}, true);
+```
+
+- Event delegation is a technique for listening to events where you delegate a parent element as the listener for all of the events that happen inside it. The benefit of this is that you don't have to add event listeners to specific nodes; instead, the event listener is added to one parent. This is especially useful for elements that are added to the DOM dynamically, since you don't have to add event listeners to them directly.
+
+> Example
+
+```html
+<ul id="parent-list">
+  <li id="post-1">Item 1</li>
+  <li id="post-2">Item 2</li>
+  <li id="post-3">Item 3</li>
+  <li id="post-4">Item 4</li>
+  <li id="post-5">Item 5</li>
+  <li id="post-6">Item 6</li>
+</ul>
+```
+```javascript
+const parentList = document.getElementById('parent-list');
+
+parentList.addEventListener('click', (event) => {
+  const clickedElement = event.target;
+  const tagName = clickedElement.tagName;
+
+  if (tagName === 'LI') {
+    console.log('List item', clickedElement.id.replace('post-', ''), 'was clicked!');
+  }
+});
+```
 
 # Coding Challenge
 
