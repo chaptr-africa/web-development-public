@@ -17,15 +17,16 @@
 - [Watch Video](https://www.youtube.com/watch?v=bLrbX4ZCQeY), Types Of SDLC Models
 - [Read More Here](https://existek.com/blog/sdlc-models/), SDLC Models: Agile, Waterfall, V-Shaped, Iterative, Spiral - Existek Blog 
  
--          Look at the different design diagrams – Gantt Chart, Flow Charts, Data Flow Diagrams
-(This is best delivered with a small project at hand)
-o   Flow Charts
+### Overview of the different design diagrams – Gantt Chart, Flow Charts, Data Flow Diagrams
+#### 1. Flow Charts
 -	Introduction to Process Flow Charts (Lean Six Sigma) - YouTube
-- 	An introduction to Flowcharts - GeeksforGeeks
--	  What is a Flowchart | Lucidchart
-o   Gantt Charts
-§  What is a Gantt Chart? [DEFINITION + EXAMPLE] - YouTube
-§  Gantt Chart Tool | Tutorialspoint
-o   Data Flow Diagrams
-§  Software Engineering Data Flow Diagrams - javatpoint
-§  Data Flow Diagram EXAMPLE [How to Create Data Flow Diagrams] - YouTube (Nicely explained)
+- An introduction to Flowcharts - GeeksforGeeks
+-	What is a Flowchart | Lucidchart
+  
+#### 2. Gantt Charts
+- What is a Gantt Chart? [DEFINITION + EXAMPLE] - YouTube
+- Gantt Chart Tool | Tutorialspoint
+
+#### 3. Data Flow Diagrams
+- Software Engineering Data Flow Diagrams - javatpoint
+- Data Flow Diagram EXAMPLE [How to Create Data Flow Diagrams] - YouTube (Nicely explained)
