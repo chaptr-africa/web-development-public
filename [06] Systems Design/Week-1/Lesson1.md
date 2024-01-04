@@ -1,6 +1,6 @@
 # Introduction to Systems Design and Software Development Life Cycle (SDLC)
 
-## a. Introduction to Systems Design and Algorithms
+## 1. Introduction to Systems Design and Algorithms
 [Read More Here](https://www.geeksforgeeks.org/what-is-system-design-learn-system-design/), Geek For Geeks
 - Why it is important to learn Systems Design
 - Components of Systems Design
