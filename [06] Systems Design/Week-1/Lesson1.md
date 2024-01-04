@@ -13,11 +13,11 @@
 - [Read More Here](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm), SDLC - Overview | Tutorialspoint
 - [Watch Video](https://www.youtube.com/watch?v=5b36UTNRmtI), Introduction to Software Development Life Cycle | Simplilearn 
  
-### Overview of the different SDLC models (waterfall, iterative, spiral, agile)
+### Overview of the different SDLC models - (Waterfall, Iterative, Spiral, Agile Models)
 - [Watch Video](https://www.youtube.com/watch?v=bLrbX4ZCQeY), Types Of SDLC Models
 - [Read More Here](https://existek.com/blog/sdlc-models/), SDLC Models: Agile, Waterfall, V-Shaped, Iterative, Spiral - Existek Blog 
  
-### Overview of the different design diagrams – Gantt Chart, Flow Charts, Data Flow Diagrams
+### Overview of the different design diagrams – (Gantt Chart, Flow Charts, Data Flow Diagrams)
 #### a.) Flow Charts
 Here are more resources on flow charts
 -	[Watch Video](https://www.youtube.com/watch?v=wLkvvqypq1E), Introduction to Process Flow Charts 
