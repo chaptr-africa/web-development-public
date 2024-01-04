@@ -25,5 +25,5 @@ Cover the fundamentals of databases:-
 - Database Replication and Partitioning
 - Normalization
 
-[Read More Here](https://www.enjoyalgorithms.com/blog/sql-vs-nosql/), Difference Between SQL and NoSQL Databases 
-[Read More Here](https://www.enjoyalgorithms.com/blog/data-partitioning-system-design-concept/), Database Partitioning
+- [Read More Here](https://www.enjoyalgorithms.com/blog/sql-vs-nosql/), Difference Between SQL and NoSQL Databases 
+- [Read More Here](https://www.enjoyalgorithms.com/blog/data-partitioning-system-design-concept/), Database Partitioning
