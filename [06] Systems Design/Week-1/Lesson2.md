@@ -7,6 +7,7 @@ Here are the key areas to focus on:-
 - Key Characteristics of a Distributed System
 - Types of a Distributed System
 - Advantages and Disadvantages of a Distributed System
+
 [Read More Here](https://www.enjoyalgorithms.com/blog/distributed-system-in-system-design), Distributed Systems in Systems Design`
 
 ## 2. Design Fundamentals
