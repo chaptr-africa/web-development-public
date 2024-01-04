@@ -8,14 +8,14 @@
 - Sample interview questions (Take a look at some and solve them on the last week)
 
 
-## 2. The Software Development Life Cycle
+## 2. The Software Development Life Cycle (SDLC)
 ### Introduction to SDLC and the different cycles
 - [Read More Here](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm), SDLC - Overview | Tutorialspoint
 - [Watch Video](https://www.youtube.com/watch?v=5b36UTNRmtI), Introduction to Software Development Life Cycle | Simplilearn 
  
--          Overview of the different models (waterfall, iterative, spiral, agile)
-o   Types Of SDLC Models(Software development life cycle) - YouTube
-o   SDLC Models: Agile, Waterfall, V-Shaped, Iterative, Spiral - Existek Blog (Really good source)
+### Overview of the different SDLC models (waterfall, iterative, spiral, agile)
+- [Watch Video](https://www.youtube.com/watch?v=bLrbX4ZCQeY), Types Of SDLC Models 
+- [Read More Here](https://existek.com/blog/sdlc-models/), SDLC Models: Agile, Waterfall, V-Shaped, Iterative, Spiral - Existek Blog 
  
 -          Look at the different design diagrams – Gantt Chart, Flow Charts, Data Flow Diagrams
 (This is best delivered with a small project at hand)
