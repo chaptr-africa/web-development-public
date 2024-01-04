@@ -1,11 +1,11 @@
 # Introduction to Systems Design and Software Development Life Cycle (SDLC)
 
-a.       Introduction to Systems Design and Algorithms
-(What is System Design - Learn System Design - GeeksforGeeks)
- Why it is important to learn Systems Design
--          Components of Systems Design
--          Explore different types of systems
--          Sample interview questions (Take a look at some and solve them on the last week)
+## a. Introduction to Systems Design and Algorithms
+[Read More Here](https://www.geeksforgeeks.org/what-is-system-design-learn-system-design/), Geek For Geeks
+- Why it is important to learn Systems Design
+- Components of Systems Design
+- Explore different types of systems
+- Sample interview questions (Take a look at some and solve them on the last week)
 
 b.      The Software Development Life Cycle
 -          Introduction to SDLC and the different cycles
