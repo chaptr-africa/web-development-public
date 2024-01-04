@@ -18,18 +18,18 @@
 - [Read More Here](https://existek.com/blog/sdlc-models/), SDLC Models: Agile, Waterfall, V-Shaped, Iterative, Spiral - Existek Blog 
  
 ### Overview of the different design diagrams – Gantt Chart, Flow Charts, Data Flow Diagrams
-#### 1. Flow Charts
+#### a.) Flow Charts
 Here are more resources on flow charts
 -	[Watch Video](https://www.youtube.com/watch?v=wLkvvqypq1E), Introduction to Process Flow Charts 
 - [Read More Here](https://www.geeksforgeeks.org/an-introduction-to-flowcharts/), An introduction to Flowcharts 
 -	[Read More Here](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial), What is a Flowchart 
 
-#### 2. Gantt Charts
+#### b.) Gantt Charts
 Here are more resources on gantt charts
 - What is a Gantt Chart? [DEFINITION + EXAMPLE] - YouTube
 - Gantt Chart Tool | Tutorialspoint
 
-#### 3. Data Flow Diagrams
+#### c.) Data Flow Diagrams
 Here are more resources on data flow diagrams
 - Software Engineering Data Flow Diagrams - javatpoint
 - Data Flow Diagram EXAMPLE [How to Create Data Flow Diagrams] - YouTube (Nicely explained)
