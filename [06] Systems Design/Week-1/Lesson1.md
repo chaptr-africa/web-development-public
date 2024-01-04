@@ -9,7 +9,7 @@
 
 
 ## 2. The Software Development Life Cycle
-Introduction to SDLC and the different cycles
+#### Introduction to SDLC and the different cycles
 - [Read More Here](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm), SDLC - Overview | Tutorialspoint
 - [Watch Video](https://www.youtube.com/watch?v=5b36UTNRmtI), Introduction to Software Development Life Cycle | Simplilearn 
  
