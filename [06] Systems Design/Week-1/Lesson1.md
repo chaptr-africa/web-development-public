@@ -26,10 +26,10 @@ Here are more resources on flow charts
 
 #### b.) Gantt Charts
 Here are more resources on gantt charts
-- What is a Gantt Chart? [DEFINITION + EXAMPLE] - YouTube
-- Gantt Chart Tool | Tutorialspoint
+- [Watch Video](https://www.youtube.com/watch?v=4DSV-_2pqmI), What is a Gantt Chart?
+- [Read More Here](https://www.tutorialspoint.com/management_concepts/gantt_chart_tool.htm), Gantt Chart Tool 
 
 #### c.) Data Flow Diagrams
 Here are more resources on data flow diagrams
-- Software Engineering Data Flow Diagrams - javatpoint
-- Data Flow Diagram EXAMPLE [How to Create Data Flow Diagrams] - YouTube (Nicely explained)
+- [Watch Video](https://www.youtube.com/watch?v=ab1DZ6o7QBs), Data Flow Diagram 
+- [Read More Here](https://www.javatpoint.com/software-engineering-data-flow-diagrams), Software Engineering Data Flow Diagrams 
