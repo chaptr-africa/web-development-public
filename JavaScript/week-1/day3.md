@@ -135,10 +135,8 @@
 
   ```javascript
   // Using a while loop
-  let i = 0;
-  while (i < 5) {
-    console.log("Iteration " + i);
-    i++;
+  while (true) {
+    //do something
   }
   ```
 
