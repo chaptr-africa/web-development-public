@@ -53,10 +53,8 @@
     - Used when the number of iterations is not known in advance.
     - Example:
       ```javascript
-      let i = 0;
-      while (i < 5) {
-        console.log("Iteration " + i);
-        i++;
+      while (true) {
+        //do something
       }
       ```
 
