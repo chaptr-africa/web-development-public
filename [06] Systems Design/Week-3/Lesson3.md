@@ -1,7 +1,7 @@
 # Kubernetes Pods, Selectors, and Workloads
 
 ## 1. Nodes
-- Explanation of Kubernetes nodes, node components (e.g., Kubelet, kube-proxy), node capacity, node status, and node management.
+- Explanation of Kubernetes nodes, node components, node capacity, node status, and node management.
 
 ## 2. Pods
 - Introduction to Kubernetes pods, pod lifecycle, pod specifications, pod networking, and pod management.
