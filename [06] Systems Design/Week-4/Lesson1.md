@@ -7,7 +7,7 @@
 - Scalability, elasticity, on-demand self-service, resource pooling, and measured service as the key characteristics of cloud computing.
   
 ## 3. Advantages and Benefits of Cloud Services.
--Cost efficiency, flexibility, scalability, agility, accessibility, reliability, and security as the benefits of cloud services.
+- Cost efficiency, flexibility, scalability, agility, accessibility, reliability, and security as the benefits of cloud services.
 
 ## 4. Cloud Service Models (IaaS, PaaS, SaaS).
 - Definition and characteristics of Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), along with examples of each.
