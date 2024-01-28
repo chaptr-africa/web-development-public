@@ -1,7 +1,7 @@
 # Systems Design Curriculum
 This course delves into the intricate world of systems design and algorithms, equipping you with the knowledge and skills necessary to create efficient and scalable software solutions. It encompasses understanding the components of systems, different types of system models, and creating design diagrams. Throughout this course, you'll explore various concepts, from distributed systems to load balancing, containerization, cloud computing, and database design.  Below is a breakdown of the course:
 
-## Week 1 & 2: Introduction to Systems Design
+## Week 1 & 2: Introduction to Systems Design (With Practical Design Examples)
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
 | 1.1 | Introduction to Systems Design and Software Development Life Cycle (SDLC) | What is System Design? Importance of Systems Design. Components of Systems Design. Introduction to Software Development Life Cycle (SDLC). Overview of different SDLC models (waterfall, iterative, spiral, agile). Different design diagrams (Gantt Chart, Flow Charts, Data Flow Diagrams). Sample interview questions | Create a simple flowchart for an authentication system |
