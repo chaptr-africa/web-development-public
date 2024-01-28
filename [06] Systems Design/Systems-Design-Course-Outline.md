@@ -1,7 +1,7 @@
 # Systems Design Curriculum
 This course delves into the intricate world of systems design and algorithms, equipping you with the knowledge and skills necessary to create efficient and scalable software solutions. It encompasses understanding the components of systems, different types of system models, and creating design diagrams. Throughout this course, you'll explore various concepts, from distributed systems to load balancing, containerization, cloud computing, and database design.  Below is a breakdown of the course:
 
-## Week 1: Introduction to Systems Design
+## Week 1 & 2: Introduction to Systems Design
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
 | 1.1 | Introduction to Systems Design and Software Development Life Cycle (SDLC) | What is System Design? Importance of Systems Design. Components of Systems Design. Introduction to Software Development Life Cycle (SDLC). Overview of different SDLC models (waterfall, iterative, spiral, agile). Different design diagrams (Gantt Chart, Flow Charts, Data Flow Diagrams). Sample interview questions | Create a simple flowchart for an authentication system |
@@ -10,7 +10,7 @@ This course delves into the intricate world of systems design and algorithms, eq
 | 1.4 | Test-Driven Development and Intro to Data Structures | What is Test-Driven Development? Benefits of TDD. Red/Green/Refactor Cycle. Basics of Data Structures and Algorithms. Introduction to key data structures (arrays, linked lists, trees, Stacks and Queues, Graphs) | |
 | 1.5 | Data Structures and Algorithms | Searching Algorithms (Linear Search and Binary Search), Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort), Divide and Conquer Algorithms (Merge Sort, QuickSort), Big O Notation and Time Complexity Analysis | ## End of Week Challenge ##: Implement a linear search algorithm to find an element in an array. Implement a simple sorting algorithm, such as Bubble Sort or Selection Sort, and use it to sort a list of data. Analyze the time complexity of the algorithms you implemented in earlier challenges and create Big O notation for them. |
 
-## Week 2: Containerization
+## Week 3: Containerization
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
 | 2.1 | Introduction to Microservices and Containers | Introduction to Microservices. Introduction to Cloud Native. Introduction to Containers. Persisting Data | Challenge: Create a simple microservices-based application using containers (e.g., Docker) and deploy it in a cloud-native environment (e.g., Kubernetes) |
@@ -19,7 +19,7 @@ This course delves into the intricate world of systems design and algorithms, eq
 | 2.4 | Kubernetes Workloads and Services | Nodes. Pods. Selectors. Multi Container Pods. | Challenge: Deploy an application using Kubernetes Workloads and practice updating the application with minimal service disruption. |
 | 2.5 | Storage, Scaling, and Observability | Storage & Persistence. Application Settings. Observability. Dashboards and Scaling | End of Week Challenge : Create a complete microservices-based application with containers, deploying it using Kubernetes, configuring application settings and observability, and implementing auto-scaling based on resource usage. |
 
-## Week 3: Cloud Computing
+## Week 4: Cloud Computing
 | Index | Lesson | Content Breakdown | Project/Quiz |
 |---|---|---|---|
 | 3.1 | Introduction to Cloud Computing | What is Cloud Computing? Key Characteristics of Cloud Computing. Advantages and Benefits of Cloud Services. Cloud Service Models (IaaS, PaaS, SaaS). AWS as a Leading Cloud Service Provider | Challenge: Set up an AWS Free Tier Account |
@@ -28,6 +28,3 @@ This course delves into the intricate world of systems design and algorithms, eq
 | 3.4 | Scaling and Load Balancing | Auto Scaling in AWS. Load Balancers in AWS. Ensuring High Availability. AWS Well-Architected Framework | Challenge: Configure Auto Scaling and Set Up a Load Balancer|
 | 3.5 | Storage and Databases in AWS | Amazon S3 for Object Storage. AWS Relational Database Service (RDS). NoSQL Databases (DynamoDB). Data Backup and Recovery| Challenge: Create an S3 Bucket, Set Up an RDS Database, and Perform Data Backups |
 
-## Week 4: Cloud Computing
-| Index | Lesson | Content Breakdown | Project/Quiz |
-|---|---|---|---|
