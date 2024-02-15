@@ -9,22 +9,6 @@
 <br>
 <hr>
 
-## Using a pre-processer for styling (Saas)
-- A preprocessor is a program that takes one type of data and converts it to another type of data. In the case of Sass, it takes your <code>.scss</code> files and converts them into regular <code>.css</code> files that you can use in your web pages.
-- You'll only be familiarized with the basics of Saas in this lesson assuming you are from a background of CSS. You'll be introduced to the concept of variables and nesting. Find SASSs documentation above.
-- How to install SASS in your React Application
-
-  ```jsx
-  //installing sass
-  $ npm install sass
-  ```
-
-- After installing sass, you can now create a <code>.scss</code> file in your project and start writing your styles in it. You can also import your <code>.scss</code> file into your <code>.scss</code> file and use it as a regular CSS file.
-
-  ```jsx
-  //importing your .scss file into your .js file
-  import './styles.scss';
-  ```
 ## Using Tailwind CSS 
 - Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 - To set up Tailwind in a React application created with vite, <a href="https://tailwindcss.com/docs/guides/vite">follow these steps.</a> 
