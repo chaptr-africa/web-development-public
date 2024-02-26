@@ -53,7 +53,7 @@ const App = ()=>{
   return (
     <div>
       {/**Box referrenced by useRef hook to change it's color */}
-      <div className="box w-40 h-40 bg-black"></div>
+      <div className="box w-40 h-40 bg-black" ref={boxRef}></div>
 
       {/**Button to handle color change */}       
       <button class="button" onClick={handleColorChange}>Change Color</button>
