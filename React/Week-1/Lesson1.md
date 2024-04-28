@@ -65,9 +65,46 @@ You will be introduced to the basics of React and learn some of the important fu
   ```
 > **💡** CRA takes a longer time building up the application than Vite. This is because CRA comes with a lot of dependancies and packages that are not needed for a simple React application. Vite on the other hand is a lot faster and easy to configure.
 
-- Folder Structure
-  - <a href="https://create-react-app.dev/docs/folder-structure">Read</a>
-  - <a href="https://www.youtube.com/watch?v=VcGAxR1Ui3w&list=PL_c9BZzLwBRKFRIBWEWYCnV4Lk9HE3eYJ&index=4">watch video</a>
+<h2>Folder Structure</h2>
+
+- After creation, your project should look like this(using vite):
+
+```bash 
+my-app/
+  public/
+    favicon.ico
+  src/
+    App.css
+    App.jsx
+    index.css
+    main.jsx
+    logo.svg
+  .eslintrc.json
+  .gitignore
+  index.html
+  package.json
+  README.md
+  vite.config.js
+```
+
+- For the project to build, these files must exist with exact filenames:
+
+```jsx
+    index.html //is the page template;
+    src/main.jsx //is the JavaScript entry point.
+```
+
+- You can delete or rename the other files.
+
+- You may create subdirectories inside src. For faster rebuilds, only files inside src are processed by webpack. You need to put any JS and CSS files inside src, otherwise webpack won’t see them.
+
+- Only files inside public can be used from public/index.html. Read instructions below for using assets from JavaScript and HTML.
+
+- You can, however, create more top-level directories. They will not be included in the production build so you can use them for things like documentation.
+
+- If you have Git installed and your project is not part of a larger repository, then a new repository will be initialized resulting in an additional top-level .git directory.
+
+- <a href="https://www.youtube.com/watch?v=VcGAxR1Ui3w&list=PL_c9BZzLwBRKFRIBWEWYCnV4Lk9HE3eYJ&index=4">watch video</a>
 
 <hr>
 <br>
