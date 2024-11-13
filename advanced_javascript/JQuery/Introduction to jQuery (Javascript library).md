@@ -127,15 +127,15 @@ $(document).ready(function() {
 #### Common Events
 
 - **Click Event**:
-    ```javascript
-    $("#buttonId").click(function() {
+```javascript
+$("#buttonId").click(function() {
     alert("Button Clicked!");
 });
 ```
 
 - **Hover Event**:
-    ```javascript
-    $("#element").hover(
+```javascript
+$("#element").hover(
     function() {
         $(this).css("background-color", "yellow");
     },
@@ -146,7 +146,7 @@ $(document).ready(function() {
 ```
 
 - **Change Event (for Inputs)**:
-    ```javascript
+```javascript
 $("#inputId").change(function() {
     alert("Input value changed!");
 });
@@ -157,25 +157,25 @@ $("#inputId").change(function() {
 ### Animations and Effects
 
 - **Hide and Show**:
-    ```javascript
+```javascript
 $("#element").hide();
 $("#element").show();
 ```
-    - With a duration: `$("#element").hide(1000);` (1000ms = 1 second)
+   --> With a duration: `$("#element").hide(1000);` (1000ms = 1 second)
     
 - **Toggle Visibility**:
-    ```javascript
+```javascript
     $("#element").toggle();
 ```
 
 - **Fade In and Fade Out**:
-    ```javascript
+```javascript
 $("#element").fadeIn();
 $("#element").fadeOut();
 ```
 
 - **Slide Up and Slide Down**:
-    ```javascript
+```javascript
 $("#element").slideUp();
 $("#element").slideDown();
 ```
